@@ -48,6 +48,10 @@
 - 输出目录：`X:\...\assets\lesson\`
 - 封面文件：`X:\...\assets\lesson\cover.png`
 - 若已存在 `cover.png`，先备份为 `cover.bak.png` 再覆盖。
+- 正文最终交付时，必须将封面图显示在讲义最前面（标题前）：
+  - Markdown 首行插入：`![cover](assets/<lesson>/cover.png)`
+  - 其中 `<lesson>` 必须与讲义文件名（去掉 `.md`）一致。
+  - 若封面生成失败，不得插入失效图片链接；需先修复封面再交付正文。
 
 ## API Key Rules
 1. 不修改 `C:\Users\Administrator\.gateway.env`。
@@ -69,6 +73,40 @@ python .codex/skills/zp-it-lecture-writer/scripts/generate_cover.py \
 - `--style-hint`：额外风格提示词
 - `--poll-interval`：轮询间隔秒数（默认 4）
 - `--timeout`：轮询超时秒数（默认 240）
+
+## Cover Generation Troubleshooting (Must Follow)
+以下规则用于避免本仓库已出现过的封面生成问题，下次执行时必须先检查：
+
+1. 不要随意改写现有封面脚本编码或大段文本。
+   - 先运行最小验证：`python -m py_compile .codex/skills/zp-it-lecture-writer/scripts/generate_cover.py`
+   - 语法检查不通过时，先恢复脚本再排障，避免二次破坏。
+
+2. APIMart 提交返回结构可能变化，必须兼容 `data` 为数组的情况。
+   - `task_id` 可能在：`data[0].task_id`，而不是顶层或 `data.task_id`。
+   - 轮询前必须打印并确认 `task_id` 非空。
+
+3. 任务完成结果可能嵌套在 `data.result.images`。
+   - 图片 URL 可能是：`data.result.images[0].url[0]`（数组）而不是字符串。
+   - 下载前必须检查 URL 字段类型（string/list）并做兼容处理。
+
+4. 中文路径场景下，优先使用 PowerShell 原生命令做下载落盘。
+   - Python 在当前终端下可能出现中文路径编码异常（`OSError: Invalid argument`）。
+   - 推荐下载方式：`Invoke-WebRequest -OutFile <cover.png>`。
+
+5. 下载 URL 可能出现 403，必须带请求头重试。
+   - 至少添加：`User-Agent`，必要时增加 `Referer: https://api.apimart.ai/`。
+   - 若仍 403，先检查 URL 是否过期（`expires_at`）并重新提交生成任务。
+
+6. 轮询类命令必须使用更长超时，避免误判失败。
+   - 外层命令超时建议 `>= 10 分钟`。
+   - 任务内部 `--timeout` 建议 `>= 600` 秒。
+
+7. 覆盖封面前必须遵守备份规则。
+   - 若 `cover.png` 已存在，先备份为 `cover.bak.png`，再覆盖写入。
+
+8. 失败后先做“结果保全”再改代码。
+   - 先保存：提交响应、任务状态响应、最终可下载 URL。
+   - 再进行脚本修复，避免因为排障丢失已生成资源。
 
 ## Project Preset (zp-python-note)
 以下约束用于本仓库的“仿写/重写讲义”任务，除非用户明确覆盖，否则默认启用：
