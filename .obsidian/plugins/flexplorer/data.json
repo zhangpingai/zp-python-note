@@ -5,6 +5,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "讲义模板",
         "Anaconda_从入门到精通指南",
         "Python语法2025",
         "hmFastAPI",
@@ -10081,6 +10082,2613 @@
       ]
     },
     "Python语法2025/python_code/day05_生成器_正则/data/jaychou_lyrics.txt": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "day13-后端Web基础(Maven基础)",
+        "day12-前端Web-Vue-基础",
+        "day11-前端Web-JavaScript",
+        "day10-前端Web-JavaScript",
+        "day09-前端Web-HTML&CSS"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day09-前端Web-HTML&CSS": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2-讲义"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Web开发介绍.md",
+        "day01-HTML-CSS.md",
+        "assets"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "1668018486183.png",
+        "1668018322115.png",
+        "1668018155880.png",
+        "1667841254716.png",
+        "1667841197255.png",
+        "1667841098321.png",
+        "1667840991261.png",
+        "1667840837334.png",
+        "1667840657590.png",
+        "1667840398324.png",
+        "1667831399156.png",
+        "1667830767033.png",
+        "1667830388905.png",
+        "1667830355701.png",
+        "1667829877388.png",
+        "1667829415386.png",
+        "1667548969631.png",
+        "1667548590602.png",
+        "1667548530745.png",
+        "1667547604517.png",
+        "1667547561387.png",
+        "1667547421140.png",
+        "1667547062232.png",
+        "1667546920773.png",
+        "1667546541068.png",
+        "1667546536590.png",
+        "1.gif",
+        "1-17003007479372.gif"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/day01-HTML-CSS.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/Web开发介绍.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1-17003007479372.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667546536590.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667546541068.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667546920773.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667547062232.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667547421140.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667547561387.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667547604517.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667548530745.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667548590602.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667548969631.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667829415386.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667829877388.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667830355701.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667830388905.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667830767033.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667831399156.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667840398324.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667840657590.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667840837334.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667840991261.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667841098321.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667841197255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1667841254716.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1668018155880.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1668018322115.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day09-前端Web-HTML&CSS/2-讲义/assets/1668018486183.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2-讲义"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "day02-前端Web-JavaScript.md",
+        "assets"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "未命名项目3.gif",
+        "未命名项目3-17003812871834.gif",
+        "未命名项目3-17003812871834-17003812906406.gif",
+        "未命名项目2.gif",
+        "未命名项目.gif",
+        "image-20231119130808208.png",
+        "image-20231119125817764.png",
+        "image-20231119120955178.png",
+        "image-20231119112519255.png",
+        "image-20231119112412254.png",
+        "image-20231119112325499.png",
+        "image-20231119111757334.png",
+        "image-20231119111652167.png",
+        "image-20231119111444299.png",
+        "image-20231119110652514.png",
+        "image-20231119105320045.png",
+        "image-20231119105158299.png",
+        "image-20231119104451987.png",
+        "image-20231119104144572.png",
+        "image-20231119103646371.png",
+        "image-20231119103027193.png",
+        "image-20231119102923663.png",
+        "image-20231119102830919.png",
+        "image-20231119102734469.png",
+        "image-20231119102658254.png",
+        "image-20231118214706628.png",
+        "image-20231118213054184.png",
+        "image-20231118212955880.png",
+        "image-20231118212945770.png",
+        "image-20231118212145630.png",
+        "image-20231118212052123.png",
+        "image-20231118211849172.png",
+        "image-20230309161838423.png",
+        "image-20210815194911914.png",
+        "1668868100828.png",
+        "1668867458156.png",
+        "1668867134683.png",
+        "1668866805981.png",
+        "1668864558419.png",
+        "1668864554492.png",
+        "1668864511161.png",
+        "1668864506047.png",
+        "1668864281939.png",
+        "1668864272855.png",
+        "1668861009068.png",
+        "1668860901125.png",
+        "1668860425429.png",
+        "1668859214102.png",
+        "1668858952627.png",
+        "1668858933490.png",
+        "1668858213508.png",
+        "1668857055058.png",
+        "1668806362090.png",
+        "1668806049390.png",
+        "1668805812470.png",
+        "1668805804652.png",
+        "1668805797381.png",
+        "1668805498416.png",
+        "1668805346551.png",
+        "1668805343802.png",
+        "1668804696373.png",
+        "1668804375833.png",
+        "1668802830796.png",
+        "1668802811056.png",
+        "1668802645347.png",
+        "1668801991368.png",
+        "1668801541168.png",
+        "1668801302139.png",
+        "1668801262970.png",
+        "1668801218809.png",
+        "1668800839720.png",
+        "1668800817460.png",
+        "1668800646200.png",
+        "1668800622300.png",
+        "1668800387791.png",
+        "1668800047162.png",
+        "1668799564602.png",
+        "1668799393592.png",
+        "1668799227223.png",
+        "1668798266255.png",
+        "1668796698067.png",
+        "1668796236628.png",
+        "1668796195195.png",
+        "1668795435780.png",
+        "1668795432736.png",
+        "1668794898891.png",
+        "1668794882732.png",
+        "1668794735581.png",
+        "1668794696951.png",
+        "1668597624263.png",
+        "1668597489911.png",
+        "1668597352197.png",
+        "1668597343162.png",
+        "1668597176685.png",
+        "1668597150779.png",
+        "1668597000013.png",
+        "1668596930043.png",
+        "1668596798551.png",
+        "1668596701343.png",
+        "1668596039535.png",
+        "1668595450181.png",
+        "1668595022160.png",
+        "1668594075039.png",
+        "1668593799333.png",
+        "1668592407223.png",
+        "1668592400491.png",
+        "1668591566013.png",
+        "1668591107438.png",
+        "1668590895662.png",
+        "1668590655291.png",
+        "1668590614787.png",
+        "1668590564305.png",
+        "1668590029976.png",
+        "1668588141399.png",
+        "1668588039871.png",
+        "1668587953841.png",
+        "1668587924550.png",
+        "1668587855863.png",
+        "1668587661914.png",
+        "1668587524509.png",
+        "1668587480704.png",
+        "1668584359136.png",
+        "1668103531260.png",
+        "1668102736759.png",
+        "1668102527993.png",
+        "1668102426953.png",
+        "1668102256305.png",
+        "1668102183766.png",
+        "1668101996370.png",
+        "1668101840992.png",
+        "1668101718354.png",
+        "1668101592422.png",
+        "1668021241174.png",
+        "1668021080890.png",
+        "1668020985363.png",
+        "1667964998343.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/day02-前端Web-JavaScript.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1667964998343.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668020985363.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668021080890.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668021241174.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668101592422.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668101718354.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668101840992.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668101996370.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668102183766.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668102256305.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668102426953.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668102527993.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668102736759.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668103531260.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668584359136.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587480704.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587524509.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587661914.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587855863.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587924550.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668587953841.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668588039871.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668588141399.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668590029976.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668590564305.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668590614787.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668590655291.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668590895662.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668591107438.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668591566013.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668592400491.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668592407223.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668593799333.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668594075039.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668595022160.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668595450181.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668596039535.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668596701343.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668596798551.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668596930043.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597000013.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597150779.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597176685.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597343162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597352197.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597489911.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668597624263.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668794696951.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668794735581.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668794882732.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668794898891.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668795432736.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668795435780.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668796195195.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668796236628.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668796698067.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668798266255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668799227223.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668799393592.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668799564602.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800047162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800387791.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800622300.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800646200.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800817460.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668800839720.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668801218809.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668801262970.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668801302139.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668801541168.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668801991368.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668802645347.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668802811056.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668802830796.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668804375833.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668804696373.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805343802.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805346551.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805498416.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805797381.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805804652.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668805812470.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668806049390.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668806362090.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668857055058.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668858213508.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668858933490.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668858952627.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668859214102.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668860425429.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668860901125.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668861009068.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864272855.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864281939.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864506047.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864511161.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864554492.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668864558419.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668866805981.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668867134683.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668867458156.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/1668868100828.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20210815194911914.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20230309161838423.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118211849172.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118212052123.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118212145630.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118212945770.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118212955880.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118213054184.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231118214706628.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119102658254.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119102734469.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119102830919.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119102923663.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119103027193.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119103646371.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119104144572.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119104451987.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119105158299.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119105320045.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119110652514.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119111444299.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119111652167.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119111757334.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119112325499.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119112412254.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119112519255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119120955178.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119125817764.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/image-20231119130808208.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/未命名项目.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/未命名项目2.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/未命名项目3-17003812871834-17003812906406.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/未命名项目3-17003812871834.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day10-前端Web-JavaScript/2-讲义/assets/未命名项目3.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2-讲义"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "assets",
+        "03-前端Web-Vue基础.md",
+        "02-前端Web-JavaScript.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/02-前端Web-JavaScript.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/03-前端Web-Vue基础.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "未命名项目4.gif",
+        "未命名项目3.gif",
+        "未命名项目3-17003812871834.gif",
+        "未命名项目3-17003812871834-17003812906406.gif",
+        "未命名项目2.gif",
+        "未命名项目.gif",
+        "image-20240304113808272.png",
+        "image-20231121104331913.png",
+        "image-20231121102903864.png",
+        "image-20231121101712141.png",
+        "image-20231121100701193.png",
+        "image-20231121095345723.png",
+        "image-20231121094840708.png",
+        "image-20231121093047199.png",
+        "image-20231121092415198.png",
+        "image-20231121092124987.png",
+        "image-20231121092047116.png",
+        "image-20231121092007961.png",
+        "image-20231121091921868.png",
+        "image-20231121091712173.png",
+        "image-20231121000510726.png",
+        "image-20231120161524488.png",
+        "image-20231120161013292.png",
+        "image-20231120160352396.png",
+        "image-20231120155152937.png",
+        "image-20231120155014670.png",
+        "image-20231120154321380.png",
+        "image-20231120115312997.png",
+        "image-20231120115000289.png",
+        "image-20231120114811431.png",
+        "image-20231120114039162.png",
+        "image-20231120112028106.png",
+        "image-20231120111717836.png",
+        "image-20231120110529330.png",
+        "image-20231120105506568.png",
+        "image-20231120104643148.png",
+        "image-20231119130808208.png",
+        "image-20231120103635322.png",
+        "image-20231119125817764.png",
+        "image-20231119120955178.png",
+        "image-20231119112519255.png",
+        "image-20231119112412254.png",
+        "image-20231119112325499.png",
+        "image-20231119111757334.png",
+        "image-20231119111652167.png",
+        "image-20231119111444299.png",
+        "image-20231119105320045.png",
+        "image-20231119110652514.png",
+        "image-20231119105158299.png",
+        "image-20231119104451987.png",
+        "image-20231119103646371.png",
+        "image-20231119104144572.png",
+        "image-20231119103027193.png",
+        "image-20231119102923663.png",
+        "image-20231119102830919.png",
+        "image-20231119102658254.png",
+        "image-20231119102734469.png",
+        "image-20231118214706628.png",
+        "image-20231118213054184.png",
+        "image-20231118212955880.png",
+        "image-20231118212945770.png",
+        "image-20231118212145630.png",
+        "image-20231118212052123.png",
+        "image-20231118211849172.png",
+        "image-20230309161838423.png",
+        "image-20210815194911914.png",
+        "1668868100828.png",
+        "1668867458156.png",
+        "1668867134683.png",
+        "1668866805981.png",
+        "1668864558419.png",
+        "1668864554492.png",
+        "1668864511161.png",
+        "1668864506047.png",
+        "1668864281939.png",
+        "1668864272855.png",
+        "1668861009068.png",
+        "1668860901125.png",
+        "1668859214102.png",
+        "1668860425429.png",
+        "1668858952627.png",
+        "1668858933490.png",
+        "1668858213508.png",
+        "1668857055058.png",
+        "1668806362090.png",
+        "1668806049390.png",
+        "1668805812470.png",
+        "1668805804652.png",
+        "1668805797381.png",
+        "1668805498416.png",
+        "1668805346551.png",
+        "1668805343802.png",
+        "1668804696373.png",
+        "1668804375833.png",
+        "1668802830796.png",
+        "1668802811056.png",
+        "1668802645347.png",
+        "1668801991368.png",
+        "1668801541168.png",
+        "1668801302139.png",
+        "1668801262970.png",
+        "1668801218809.png",
+        "1668800839720.png",
+        "1668800817460.png",
+        "1668800646200.png",
+        "1668800622300.png",
+        "1668800387791.png",
+        "1668800047162.png",
+        "1668799564602.png",
+        "1668799393592.png",
+        "1668799227223.png",
+        "1668798266255.png",
+        "1668796698067.png",
+        "1668796236628.png",
+        "1668796195195.png",
+        "1668795435780.png",
+        "1668795432736.png",
+        "1668794882732.png",
+        "1668794898891.png",
+        "1668794735581.png",
+        "1668794696951.png",
+        "1668597624263.png",
+        "1668597489911.png",
+        "1668597352197.png",
+        "1668597343162.png",
+        "1668597176685.png",
+        "1668597150779.png",
+        "1668597000013.png",
+        "1668596930043.png",
+        "1668596798551.png",
+        "1668596701343.png",
+        "1668596039535.png",
+        "1668595450181.png",
+        "1668595022160.png",
+        "1668594075039.png",
+        "1668593799333.png",
+        "1668592407223.png",
+        "1668592400491.png",
+        "1668591566013.png",
+        "1668591107438.png",
+        "1668590895662.png",
+        "1668590655291.png",
+        "1668590614787.png",
+        "1668590564305.png",
+        "1668590029976.png",
+        "1668588141399.png",
+        "1668588039871.png",
+        "1668587953841.png",
+        "1668587924550.png",
+        "1668587661914.png",
+        "1668587855863.png",
+        "1668103531260.png",
+        "1668587524509.png",
+        "1668587480704.png",
+        "1668584359136.png",
+        "1668102736759.png",
+        "1668102527993.png",
+        "1668102426953.png",
+        "1668102256305.png",
+        "1668102183766.png",
+        "1668101718354.png",
+        "1668101592422.png",
+        "1668101996370.png",
+        "1668101840992.png",
+        "1668021241174.png",
+        "1668021080890.png",
+        "1668020985363.png",
+        "1667964998343.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1667964998343.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668020985363.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668021080890.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668021241174.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668101840992.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668101996370.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668101592422.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668101718354.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668102183766.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668102256305.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668102426953.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668102527993.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668102736759.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668584359136.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587480704.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587524509.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668103531260.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587855863.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587661914.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587924550.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668587953841.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668588039871.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668588141399.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668590029976.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668590564305.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668590614787.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668590655291.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668590895662.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668591107438.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668591566013.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668592400491.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668592407223.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668593799333.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668594075039.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668595022160.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668595450181.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668596039535.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668596701343.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668596798551.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668596930043.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597000013.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597150779.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597176685.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597343162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597352197.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597489911.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668597624263.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668794696951.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668794735581.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668794898891.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668794882732.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668795432736.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668795435780.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668796195195.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668796236628.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668796698067.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668798266255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668799227223.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668799393592.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668799564602.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800047162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800387791.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800622300.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800646200.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800817460.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668800839720.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668801218809.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668801262970.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668801302139.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668801541168.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668801991368.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668802645347.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668802811056.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668802830796.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668804375833.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668804696373.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805343802.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805346551.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805498416.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805797381.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805804652.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668805812470.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668806049390.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668806362090.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668857055058.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668858213508.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668858933490.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668858952627.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668860425429.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668859214102.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668860901125.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668861009068.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864272855.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864281939.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864506047.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864511161.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864554492.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668864558419.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668866805981.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668867134683.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668867458156.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/1668868100828.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20210815194911914.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20230309161838423.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118211849172.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118212052123.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118212145630.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118212945770.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118212955880.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118213054184.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231118214706628.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119102734469.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119102658254.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119102830919.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119102923663.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119103027193.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119104144572.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119103646371.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119104451987.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119105158299.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119110652514.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119105320045.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119111444299.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119111652167.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119111757334.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119112325499.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119112412254.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119112519255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119120955178.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119125817764.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120103635322.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231119130808208.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120104643148.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120105506568.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120110529330.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120111717836.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120112028106.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120114039162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120114811431.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120115000289.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120115312997.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120154321380.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120155014670.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120155152937.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120160352396.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120161013292.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231120161524488.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121000510726.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121091712173.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121091921868.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121092007961.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121092047116.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121092124987.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121092415198.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121093047199.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121094840708.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121095345723.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121100701193.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121101712141.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121102903864.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20231121104331913.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/image-20240304113808272.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目2.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目3-17003812871834-17003812906406.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目3-17003812871834.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目3.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day11-前端Web-JavaScript/2-讲义/assets/未命名项目4.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2-讲义"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "assets",
+        "03-前端Web-Vue基础.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/03-前端Web-Vue基础.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "未命名项目4.gif",
+        "未命名项目3.gif",
+        "未命名项目2.gif",
+        "未命名项目.gif",
+        "image-20240304113808272.png",
+        "image-20231121104331913.png",
+        "image-20231121102903864.png",
+        "image-20231121101712141.png",
+        "image-20231121100701193.png",
+        "image-20231121095345723.png",
+        "image-20231121094840708.png",
+        "image-20231121093047199.png",
+        "image-20231121092415198.png",
+        "image-20231121092124987.png",
+        "image-20231121092047116.png",
+        "image-20231121092007961.png",
+        "image-20231121091921868.png",
+        "image-20231121091712173.png",
+        "image-20231121000510726.png",
+        "image-20231120161524488.png",
+        "image-20231120161013292.png",
+        "image-20231120160352396.png",
+        "image-20231120155152937.png",
+        "image-20231120155014670.png",
+        "image-20231120154321380.png",
+        "image-20231120115312997.png",
+        "image-20231120115000289.png",
+        "image-20231120114811431.png",
+        "image-20231120114039162.png",
+        "image-20231120112028106.png",
+        "image-20231120111717836.png",
+        "image-20231120110529330.png",
+        "image-20231120105506568.png",
+        "image-20231120104643148.png",
+        "image-20231120103635322.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120103635322.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120104643148.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120105506568.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120110529330.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120111717836.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120112028106.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120114039162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120114811431.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120115000289.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120115312997.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120154321380.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120155014670.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120155152937.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120160352396.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120161013292.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231120161524488.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121000510726.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121091712173.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121091921868.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121092007961.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121092047116.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121092124987.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121092415198.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121093047199.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121094840708.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121095345723.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121100701193.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121101712141.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121102903864.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20231121104331913.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/image-20240304113808272.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/未命名项目.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/未命名项目2.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/未命名项目3.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day12-前端Web-Vue-基础/2-讲义/assets/未命名项目4.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2-讲义"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "assets",
+        "04-后端Web基础(Maven基础).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/04-后端Web基础(Maven基础).md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "lastUpdated-1582625518983.png",
+        "image-20231122101913739.png",
+        "image-20231122101848991.png",
+        "image-20231122101744998.png",
+        "image-20231122101613107.png",
+        "image-20231122101238601.png",
+        "image-20231122101105549.png",
+        "image-20231122100806285.png",
+        "image-20231122100220525.png",
+        "image-20231121224241781.png",
+        "image-20231121224153187.png",
+        "image-20231121214044713.png",
+        "image-20231121213825685.png",
+        "image-20231121213030314.png",
+        "image-20231121212344174.png",
+        "image-20231121211350133.png",
+        "image-20231121210849299.png",
+        "image-20231121205358842.png",
+        "image-20231121183842374.png",
+        "image-20231121182814533.png",
+        "image-20231121182615482.png",
+        "image-20231121182520581.png",
+        "image-20231121182259109.png",
+        "image-20231121182141986.png",
+        "image-20231121181934260.png",
+        "image-20231121181710144.png",
+        "image-20231121181649325.png",
+        "image-20231121181515494.png",
+        "image-20231121181406774.png",
+        "image-20231121180620210.png",
+        "image-20231121180537321.png",
+        "image-20231121180412254.png",
+        "image-20231121180304962.png",
+        "image-20231121180147956.png",
+        "image-20231121180010471.png",
+        "image-20231121175809075.png",
+        "image-20231121175618025.png",
+        "image-20231121175605389.png",
+        "image-20231121174854987.png",
+        "image-20231121174620227.png",
+        "image-20231121174517472.png",
+        "image-20231121172650109.png",
+        "image-20231121172608442.png",
+        "image-20231121172109208.png",
+        "image-20231121172020180.png",
+        "image-20231121171743838.png",
+        "image-20231121170658821.png",
+        "image-20221214154949482.png",
+        "image-20221214154559817.png",
+        "image-20221201172914648.png",
+        "image-20221201172210253.png",
+        "image-20221201171529382.png",
+        "image-20221201170830837.png",
+        "image-20221201165801341.png",
+        "image-20221201164627403.png",
+        "image-20221201163711835.png",
+        "image-20221201161957301.png",
+        "image-20221201151340340.png",
+        "image-20221201142501556.png",
+        "image-20221201141929240.png",
+        "image-20221201140140947.png",
+        "image-20221201120514644.png",
+        "image-20221201135142706.png",
+        "image-20221201115801806.png",
+        "image-20221201113659400.png",
+        "image-20221201105845872.png",
+        "image-20221201105532909.png",
+        "image-20221201104906754.png",
+        "image-20221201104320521.png",
+        "image-20221201101643427.png",
+        "image-20221201101603397.png",
+        "image-20221201100502234.png",
+        "image-20221201100011799.png",
+        "image-20221201095831320.png",
+        "image-20221201095621738.png",
+        "image-20221201095600057.png",
+        "image-20221201093737128.png",
+        "image-20221130234731629.png",
+        "image-20221130231857537.png",
+        "image-20221130230134757.png",
+        "image-20221130222907628.png",
+        "image-20221130220539444.png",
+        "image-20221130212841973.png",
+        "image-20221130184402805.png",
+        "image-20221130174805973.png",
+        "image-20221130161346565.png",
+        "image-20221130143139644.png",
+        "image-20221130142643255.png",
+        "image-20221130142100703.png",
+        "image-20221130140247524.png",
+        "image-20221130140132209.png",
+        "image-20221130104014162.png",
+        "image-20221130095316032.png",
+        "image-20220823161727718.png",
+        "image-20220616124348972.png",
+        "image-20220616124015567.png",
+        "image-20220616123806894.png",
+        "image-20220616115445812.png",
+        "image-20220616111937679.png",
+        "image-20220616111031057.png",
+        "image-20220616104517726.png",
+        "image-20220616104338612.png",
+        "image-20220616103302386.png",
+        "image-20220616103219646.png",
+        "image-20220616102554143.png",
+        "image-20220616102435856.png",
+        "image-20220616102344350.png",
+        "image-20220616100529868-1669794069698.png",
+        "image-20220616100211209.png",
+        "image-20220616095633552.png",
+        "image-20220616094113852.png",
+        "image-20220616001159531.png",
+        "7.gif",
+        "6.gif",
+        "5.gif",
+        "4.gif",
+        "1537786634456-1582625518984.png",
+        "3.gif",
+        "2.gif",
+        "1536506937924-1582625518983.png",
+        "1536506855334-1582625518983.png",
+        "1-1669821012006.gif"
+      ],
+      "sortOrder": "custom"
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/1-1669821012006.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/1536506855334-1582625518983.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/1536506937924-1582625518983.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/2.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/3.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/1537786634456-1582625518984.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/4.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/5.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/6.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/7.gif": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616001159531.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616094113852.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616095633552.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616100211209.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616100529868-1669794069698.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616102344350.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616102435856.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616102554143.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616103219646.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616103302386.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616104338612.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616104517726.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616111031057.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616111937679.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616115445812.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616123806894.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616124015567.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220616124348972.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20220823161727718.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130095316032.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130104014162.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130140132209.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130140247524.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130142100703.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130142643255.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130143139644.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130161346565.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130174805973.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130184402805.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130212841973.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130220539444.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130222907628.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130230134757.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130231857537.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221130234731629.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201093737128.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201095600057.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201095621738.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201095831320.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201100011799.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201100502234.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201101603397.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201101643427.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201104320521.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201104906754.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201105532909.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201105845872.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201113659400.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201115801806.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201135142706.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201120514644.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201140140947.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201141929240.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201142501556.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201151340340.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201161957301.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201163711835.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201164627403.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201165801341.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201170830837.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201171529382.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201172210253.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221201172914648.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221214154559817.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20221214154949482.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121170658821.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121171743838.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121172020180.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121172109208.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121172608442.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121172650109.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121174517472.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121174620227.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121174854987.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121175605389.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121175618025.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121175809075.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180010471.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180147956.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180304962.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180412254.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180537321.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121180620210.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121181406774.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121181515494.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121181649325.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121181710144.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121181934260.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121182141986.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121182259109.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121182520581.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121182615482.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121182814533.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121183842374.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121205358842.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121210849299.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121211350133.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121212344174.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121213030314.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121213825685.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121214044713.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121224153187.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231121224241781.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122100220525.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122100806285.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101105549.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101238601.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101613107.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101744998.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101848991.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/image-20231122101913739.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/lastUpdated-1582625518983.png": {
       "isPinned": false,
       "isHidden": false
     }
