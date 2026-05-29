@@ -14,13 +14,13 @@
 
 点击即可下载
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-1.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256610.png)
 
 ## 安装
 
 双击打开下载的安装包（以Windows系统为例）
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-2.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256598.png)
 
 ## 验证
 
@@ -30,11 +30,11 @@
 
 打开“命令提示符”程序
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-3.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256584.png)
 
 在命令提示符程序内，输入：python 并回车
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-4.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256569.png)
 
 # 第一个Python程序
 
@@ -54,7 +54,7 @@ print("Hello World")
 
 打开CMD（命令提示符）程序，输入Python并回车然后，在里面输入代码回车即可立即执行
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-5.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256554.png)
 
   
 
@@ -64,11 +64,11 @@ print("Hello World")
 
 使用快捷键：win + r
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-6.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256549.png)
 
 打开运行框，输入cmd后回车即可打开命令提示符程序
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-7.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256547.png)
 
   
 
@@ -76,11 +76,11 @@ print("Hello World")
 
 安装python的时候，没有勾选：add python 3.10 to PATH的选项
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-8.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256545.png)
 
 卸载Python，重新安装python，勾选这个选项。
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-9.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256543.png)
 
 然后重新打开命令提示符程序，即可。
 
@@ -88,7 +88,7 @@ print("Hello World")
 
 ### 出现无法初始化设备 PRN
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-10.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256609.png)
 
 这是因为没有进入到python解释器环境内执行代码。
 
@@ -98,13 +98,13 @@ print("Hello World")
 
 2\. 输入代码执行，才可以
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-11.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256607.png)
 
   
 
 ### 执行出现：SyntaxError: invalid character '“' (U+201C)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-12.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256606.png)
 
 这是因为，代码中的符号是中文符号。
 
@@ -114,15 +114,15 @@ print("Hello World")
 
 首先，一个基本原理是：计算机只认识二进制，即：0和1
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-13.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256605.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-14.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256604.png)
 
   
 
 其实很简单，计算机是不会认识Python代码的。但是Python有解释器程序，如下图
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-15.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256603.png)
 
 安装Python环境，本质上，就是在电脑中，安装：Python解释器程序代码，随时可以写，但能不能运行，就要看电脑里面有没有解释器程序了。
 
@@ -136,21 +136,21 @@ Python解释器，是一个计算机程序，用来翻译Python代码，并提�
 
 解释器存放在：<Python安装目录>/python.exe
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-16.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256602.png)
 
 我们在CMD（命令提示符）程序内，执行的python，就是上图的python.exe程序
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-17.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256601.png)
 
   
 
 不使用解释器，计算机不认识Python代码
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-18.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256600.png)
 
 使用Python解释器程序，就能执行Python代码了
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-19.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256599.png)
 
   
 
@@ -171,7 +171,7 @@ print("Python改变世界")
 
 输入如下内容：在“命令提示符”程序内，使用python命令，运行它，如图：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-20.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256597.png)
 
 # Python开发工具
 
@@ -191,65 +191,65 @@ PyCharm集成开发工具（IDE），是当下全球Python开发者，使用最�
 
 首先，我们先下载并安装它：打开网站：[https://www.jetbrains.com/pycharm/download/#section=windows](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-21.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256595.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-22.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256594.png)
 
 ### 安装和编写 HelloWorld 程序
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-23.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256592.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-24.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256591.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-25.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256590.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-26.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256589.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-27.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256588.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-28.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256586.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-29.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256585.png)
 
 即可看到软件正常可用：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-30.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256582.png)
 
 创建一个工程，我们来尝试写一写代码
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-31.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256581.png)
 
 指定工程路径以及选择Python解释器
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-32.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256580.png)
 
 配置Python解释器：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-33.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256578.png)
 
 确认工程路径和解释器
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-34.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256577.png)
 
 工程创建完成：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-35.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256575.png)
 
   
 
 创建一个Python代码文件 ，名称test.py
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-36.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256574.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-37.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256573.png)
 
 填写如下内容
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-38.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256572.png)
 
 在空白处右键，然后选择运行：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-39.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256570.png)
 
   
 
@@ -259,15 +259,15 @@ PyCharm集成开发工具（IDE），是当下全球Python开发者，使用最�
 
 默认是黑色主题，我们可以在PyCharm的右上角，点击“齿轮”
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-40.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256568.png)
 
 然后点击：”theme”，选择主题：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-41.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256567.png)
 
 选择想要的主题即可：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-42.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256566.png)
 
   
 
@@ -275,9 +275,9 @@ PyCharm集成开发工具（IDE），是当下全球Python开发者，使用最�
 
 打开设置：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-43.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256565.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-44.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256563.png)
 
   
 
@@ -285,17 +285,17 @@ PyCharm集成开发工具（IDE），是当下全球Python开发者，使用最�
 
 打开设置：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-45.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256562.png)
 
 或者
 
 打开设置：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-46.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256560.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-47.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256559.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-48.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256557.png)
 
   
 
@@ -303,15 +303,15 @@ PyCharm集成开发工具（IDE），是当下全球Python开发者，使用最�
 
 打开插件功能：
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-49.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256556.png)
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-50.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256553.png)
 
   
 
 ### 翻译软件
 
-![image.png](assets/Python开发基础概念和工具安装/Python开发基础概念和工具安装-51.png)
+![image.png](assets/01_Python开发基础概念和工具安装/file-20260529202256551.png)
 
   
 

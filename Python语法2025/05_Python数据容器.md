@@ -4,7 +4,7 @@
 
 如何做呢？
 
-![image.png](assets/Python数据容器/Python数据容器-1.png)
+![image.png](assets/05_Python数据容器/file-20260529202348420.png)
 
 **学习数据容器，就是为了批量存储或批量使用多份数据**
 
@@ -16,7 +16,7 @@ Python中的数据容器：
 
 每一个元素，可以是任意类型的数据，如字符串、数字、布尔等。
 
-![image.png](assets/Python数据容器/Python数据容器-2.png)
+![image.png](assets/05_Python数据容器/file-20260529202348408.png)
 
 数据容器根据特点的不同，如：
 
@@ -50,7 +50,7 @@ Python中的数据容器：
 
 基本语法：
 
-![image.png](assets/Python数据容器/Python数据容器-3.png)
+![image.png](assets/05_Python数据容器/file-20260529202348396.png)
 
 列表内的每一个数据，称之为元素
 
@@ -62,11 +62,11 @@ l列表内每一个元素之间用, 逗号隔开
 
 案例演示：使用[]的方式定义列表
 
-![image.png](assets/Python数据容器/Python数据容器-4.png)
+![image.png](assets/05_Python数据容器/file-20260529202348383.png)
 
 ## 嵌套列表的定义
 
-![image.png](assets/Python数据容器/Python数据容器-5.png)
+![image.png](assets/05_Python数据容器/file-20260529202348369.png)
 
 ## 注意事项
 
@@ -105,33 +105,33 @@ print(type(lst))
 
 我们可以使用：下标索引
 
-![image.png](assets/Python数据容器/Python数据容器-6.png)
+![image.png](assets/05_Python数据容器/file-20260529202348358.png)
 
 如图，列表中的每一个元素，都有其位置下标索引，从前向后的方向，从0开始，依次递增
 
 我们只需要按照下标索引，即可取得对应位置的元素。
 
-![image.png](assets/Python数据容器/Python数据容器-7.png)
+![image.png](assets/05_Python数据容器/file-20260529202348344.png)
 
 ## 列表的下标（索引） - 反向
 
 或者，可以反向索引，也就是从后向前：从-1开始，依次递减（-1、-2、-3......）
 
-![image.png](assets/Python数据容器/Python数据容器-8.png)
+![image.png](assets/05_Python数据容器/file-20260529202348289.png)
 
 如图，从后向前，下标索引为：-1、-2、-3，依次递减。
 
-![image.png](assets/Python数据容器/Python数据容器-9.png)
+![image.png](assets/05_Python数据容器/file-20260529202348281.png)
 
 ## 嵌套列表的下标（索引）
 
 如果列表是嵌套的列表，同样支持下标索引
 
-![image.png](assets/Python数据容器/Python数据容器-10.png)
+![image.png](assets/05_Python数据容器/file-20260529202348419.png)
 
 如图，下标就有2个层级了。
 
-![image.png](assets/Python数据容器/Python数据容器-11.png)
+![image.png](assets/05_Python数据容器/file-20260529202348418.png)
 
 ```python
 """
@@ -250,15 +250,15 @@ print(lst[-0])
 
 在Python中，如果将函数定义为class（类）的成员，那么函数会称之为：方法
 
-![image.png](assets/Python数据容器/Python数据容器-12.png)
+![image.png](assets/05_Python数据容器/file-20260529202348417.png)
 
-![image.png](assets/Python数据容器/Python数据容器-13.png)
+![image.png](assets/05_Python数据容器/file-20260529202348415%201.png)
 
 方法和函数功能一样，有传入参数，有返回值，只是方法的使用格式不同：
 
-函数的使用：![image.png](assets/Python数据容器/Python数据容器-14.png)
+函数的使用：![image.png](assets/05_Python数据容器/file-20260529202348415.png)
 
-方法的使用：![image.png](assets/Python数据容器/Python数据容器-15.png)
+方法的使用：![image.png](assets/05_Python数据容器/file-20260529202348414.png)
 
 关于类和方法的定义，在面向对象章节我们学习，目前我们知道如何使用方法即可。
 
@@ -272,7 +272,7 @@ print(lst[-0])
 
 index就是列表对象（变量）内置的方法（函数）
 
-![image.png](assets/Python数据容器/Python数据容器-16.png)
+![image.png](assets/05_Python数据容器/file-20260529202348413.png)
 
 ​  
 
@@ -284,25 +284,25 @@ index就是列表对象（变量）内置的方法（函数）
 
 可以使用如上语法，直接对指定下标（正向、反向下标均可）的值进行：重新赋值（修改）
 
-![image.png](assets/Python数据容器/Python数据容器-17.png)
+![image.png](assets/05_Python数据容器/file-20260529202348411.png)
 
 •插入元素：
 
 语法：列表.insert(下标, 元素)，在指定的下标位置，插入指定的元素
 
-![image.png](assets/Python数据容器/Python数据容器-18.png)
+![image.png](assets/05_Python数据容器/file-20260529202348410.png)
 
 •追加元素：
 
 语法：列表.append(元素)，将指定元素，追加到列表的尾部
 
-![image.png](assets/Python数据容器/Python数据容器-19.png)
+![image.png](assets/05_Python数据容器/file-20260529202348409.png)
 
 •追加元素方式2：
 
 语法：列表.extend(其它数据容器)，将其它数据容器的内容取出，依次追加到列表尾部
 
-![image.png](assets/Python数据容器/Python数据容器-20.png)
+![image.png](assets/05_Python数据容器/file-20260529202348407.png)
 
 •删除元素：
 
@@ -310,23 +310,23 @@ index就是列表对象（变量）内置的方法（函数）
 
 语法2：列表.pop(下标)
 
-![image.png](assets/Python数据容器/Python数据容器-21.png)
+![image.png](assets/05_Python数据容器/file-20260529202348406.png)
 
 •删除某元素在列表中的第一个匹配项
 
 语法：列表.remove(元素)
 
-![image.png](assets/Python数据容器/Python数据容器-22.png)
+![image.png](assets/05_Python数据容器/file-20260529202348405.png)
 
 •清空列表内容，语法：列表.clear()
 
-![image.png](assets/Python数据容器/Python数据容器-23.png)
+![image.png](assets/05_Python数据容器/file-20260529202348404.png)
 
 •统计某元素在列表内的数量
 
 语法：列表.count(元素)
 
-![image.png](assets/Python数据容器/Python数据容器-24.png)
+![image.png](assets/05_Python数据容器/file-20260529202348403.png)
 
 ## 列表的查询功能（方法）
 
@@ -336,7 +336,7 @@ index就是列表对象（变量）内置的方法（函数）
 
 可以得到一个int数字，表示列表内的元素数量
 
-![image.png](assets/Python数据容器/Python数据容器-25.png)
+![image.png](assets/05_Python数据容器/file-20260529202348401.png)
 
 ## 列表的特点
 
@@ -520,7 +520,7 @@ print(lst[6])
 
 •循环条件为下标值 < 列表的元素数量
 
-![image.png](assets/Python数据容器/Python数据容器-26.png)
+![image.png](assets/05_Python数据容器/file-20260529202348400.png)
 
 ```python
 
@@ -547,11 +547,11 @@ while index < len(lst):
 
 语法：
 
-![image.png](assets/Python数据容器/Python数据容器-27.png)
+![image.png](assets/05_Python数据容器/file-20260529202348399.png)
 
-![image.png](assets/Python数据容器/Python数据容器-28.png)
+![image.png](assets/05_Python数据容器/file-20260529202348398.png)
 
-![image.png](assets/Python数据容器/Python数据容器-29.png)
+![image.png](assets/05_Python数据容器/file-20260529202348397.png)
 
 表示，从容器内，依次取出元素并赋值到临时变量上。
 
@@ -599,7 +599,7 @@ while循环和for循环，都是循环语句，但细节不同：
 
 •**for循环适用于，遍历数据容器的场景或简单的固定次数循环场景**
 
-![image.png](assets/Python数据容器/Python数据容器-30.png)
+![image.png](assets/05_Python数据容器/file-20260529202348395.png)
 
 # 循环遍历列表练习题
 
@@ -609,7 +609,7 @@ while循环和for循环，都是循环语句，但细节不同：
 
 •使用while循环和for循环各操作一次
 
-![image.png](assets/Python数据容器/Python数据容器-31.png)
+![image.png](assets/05_Python数据容器/file-20260529202348394.png)
 
 提示：
 
@@ -663,17 +663,17 @@ for：从列表[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]取出偶数，得到新列表：[
 
 元组定义：定义元组使用小括号，且使用逗号隔开各个数据，数据可以是不同的数据类型。
 
-![image.png](assets/Python数据容器/Python数据容器-32.png)
+![image.png](assets/05_Python数据容器/file-20260529202348393.png)
 
   
 
-![image.png](assets/Python数据容器/Python数据容器-33.png)
+![image.png](assets/05_Python数据容器/file-20260529202348392.png)
 
 注意：元组只有一个数据，这个数据后面要添加逗号
 
 元组也支持嵌套：
 
-![image.png](assets/Python数据容器/Python数据容器-34.png)
+![image.png](assets/05_Python数据容器/file-20260529202348391.png)
 
 ```python
 
@@ -723,7 +723,7 @@ print(t1[1][1]) # 元祖也有下标，可以通过[下标]取值
 
 元组由于不可修改的特性，所以其操作方法非常少。
 
-![image.png](assets/Python数据容器/Python数据容器-35.png)
+![image.png](assets/05_Python数据容器/file-20260529202348389.png)
 
 ```python
 t1 = (1, 2, 3, 4, 5)
@@ -751,15 +751,15 @@ print(f"长度 = {len(t1)}")
 
 不可以修改元组的内容，否则会直接报错
 
-![image.png](assets/Python数据容器/Python数据容器-36.png)
+![image.png](assets/05_Python数据容器/file-20260529202348388.png)
 
 可以修改元组内的list的内容（修改元素、增加、删除、反转等）
 
-![image.png](assets/Python数据容器/Python数据容器-37.png)
+![image.png](assets/05_Python数据容器/file-20260529202348387.png)
 
 不可以替换list为其它list或其它类型
 
-![image.png](assets/Python数据容器/Python数据容器-38.png)
+![image.png](assets/05_Python数据容器/file-20260529202348384.png)
 
 ## 元组的遍历
 
@@ -767,7 +767,7 @@ print(f"长度 = {len(t1)}")
 
 可以使用while循环和for循环遍历它
 
-![image.png](assets/Python数据容器/Python数据容器-39.png)
+![image.png](assets/05_Python数据容器/file-20260529202348386.png)
 
 ## 元组的特点
 
@@ -832,7 +832,7 @@ for i in t1:
 
 •从后向前，下标从\-1开始
 
-![image.png](assets/Python数据容器/Python数据容器-40.png)
+![image.png](assets/05_Python数据容器/file-20260529202348382.png)
 
 同元组一样，字符串是一个：无法修改的数据容器。
 
@@ -862,7 +862,7 @@ for i in t1:
 
 语法：字符串.index(字符串)
 
-![image.png](assets/Python数据容器/Python数据容器-41.png)
+![image.png](assets/05_Python数据容器/file-20260529202348381.png)
 
   
 
@@ -874,7 +874,7 @@ for i in t1:
 
 ​注意：不是修改字符串本身，而是得到了一个新字符串哦
 
-![image.png](assets/Python数据容器/Python数据容器-42.png)
+![image.png](assets/05_Python数据容器/file-20260529202348379.png)
 
 ​可以看到，字符串name本身并没有发生变化
 
@@ -890,7 +890,7 @@ for i in t1:
 
 ​注意：字符串本身不变，而是得到了一个列表对象
 
-![image.png](assets/Python数据容器/Python数据容器-43.png)
+![image.png](assets/05_Python数据容器/file-20260529202348378.png)
 
 可以看到，字符串按照给定的 <空格>进行了分割，变成多个子字符串，并存入一个列表对象中。
 
@@ -900,7 +900,7 @@ for i in t1:
 
 ​语法：字符串.strip()
 
-![image.png](assets/Python数据容器/Python数据容器-44.png)
+![image.png](assets/05_Python数据容器/file-20260529202348376.png)
 
   
 
@@ -910,7 +910,7 @@ for i in t1:
 
 注意，传入的是“12” 其实就是：”1”和”2”都会移除，是按照单个字符。
 
-![image.png](assets/Python数据容器/Python数据容器-45.png)
+![image.png](assets/05_Python数据容器/file-20260529202348375.png)
 
   
 
@@ -918,7 +918,7 @@ for i in t1:
 
 ​语法：字符串.count(字符串)
 
-![image.png](assets/Python数据容器/Python数据容器-46.png)
+![image.png](assets/05_Python数据容器/file-20260529202348374.png)
 
   
 
@@ -926,7 +926,7 @@ for i in t1:
 
 ​语法：len(字符串)
 
-![image.png](assets/Python数据容器/Python数据容器-47.png)
+![image.png](assets/05_Python数据容器/file-20260529202348373.png)
 
 可以看出：
 
@@ -999,7 +999,7 @@ print(len(info)) # 7
 
 同列表、元组一样，字符串也支持while循环和for循环进行遍历
 
-![image.png](assets/Python数据容器/Python数据容器-48.png)
+![image.png](assets/05_Python数据容器/file-20260529202348372.png)
 
 ## 字符串的特点
 
@@ -1031,7 +1031,7 @@ print(len(info)) # 7
 
 列表、元组、字符串，均可以可以视为序列。
 
-![image.png](assets/Python数据容器/Python数据容器-49.png)
+![image.png](assets/05_Python数据容器/file-20260529202348370.png)
 
 如图，序列的典型特征就是：有序并可用下标索引，字符串、元组、列表均满足这个要求
 
@@ -1177,7 +1177,7 @@ Bilili
 
 ## 基本语法
 
-![image.png](assets/Python数据容器/Python数据容器-50.png)
+![image.png](assets/05_Python数据容器/file-20260529202348368.png)
 
 和列表、元组、字符串等定义基本相同：
 
@@ -1216,7 +1216,7 @@ Bilili
 
 结果：集合本身被修改，添加了新元素
 
-![image.png](assets/Python数据容器/Python数据容器-51.png)
+![image.png](assets/05_Python数据容器/file-20260529202348367.png)
 
 ## ​移除元素
 
@@ -1224,7 +1224,7 @@ Bilili
 
 结果：集合本身被修改，移除了元素
 
-![image.png](assets/Python数据容器/Python数据容器-52.png)
+![image.png](assets/05_Python数据容器/file-20260529202348366.png)
 
 ## ​从集合中随机取出元素
 
@@ -1232,7 +1232,7 @@ Bilili
 
 结果：会得到一个元素的结果。同时集合本身被修改，元素被移除
 
-![image.png](assets/Python数据容器/Python数据容器-53.png)
+![image.png](assets/05_Python数据容器/file-20260529202348365.png)
 
 ## ​清空集合
 
@@ -1240,7 +1240,7 @@ Bilili
 
 结果：集合本身被清空
 
-![image.png](assets/Python数据容器/Python数据容器-54.png)
+![image.png](assets/05_Python数据容器/file-20260529202348364.png)
 
 ## ​取出2个集合的差集
 
@@ -1248,7 +1248,7 @@ Bilili
 
 结果：得到一个新集合，集合1和集合2不变
 
-![image.png](assets/Python数据容器/Python数据容器-55.png)
+![image.png](assets/05_Python数据容器/file-20260529202348363.png)
 
 ## ​消除2个集合的差集
 
@@ -1258,7 +1258,7 @@ Bilili
 
 结果：集合1被修改，集合2不变
 
-![image.png](assets/Python数据容器/Python数据容器-56.png)
+![image.png](assets/05_Python数据容器/file-20260529202348362.png)
 
 ## ​2个集合合并
 
@@ -1268,7 +1268,7 @@ Bilili
 
 结果：得到新集合，集合1和集合2不变
 
-![image.png](assets/Python数据容器/Python数据容器-57.png)
+![image.png](assets/05_Python数据容器/file-20260529202348361.png)
 
 ## ​查看集合的元素数量
 
@@ -1278,13 +1278,13 @@ Bilili
 
 结果：得到一个整数结果
 
-![image.png](assets/Python数据容器/Python数据容器-58.png)
+![image.png](assets/05_Python数据容器/file-20260529202348360.png)
 
   
 
 ## 集合同样支持使用for循环遍历
 
-![image.png](assets/Python数据容器/Python数据容器-59.png)
+![image.png](assets/05_Python数据容器/file-20260529202348359.png)
 
 要注意：集合**不支持下标索引**，所以也就**不支持使用while循环**。
 
@@ -1458,23 +1458,23 @@ set: {'cxypa', '程序员平安', 'cxypp', 'best', 'B站大学'}
 
 ## 为什么使用字典
 
-![image.png](assets/Python数据容器/Python数据容器-60.png)
+![image.png](assets/05_Python数据容器/file-20260529202348356.png)
 
 Python中字典和生活中字典十分相像：
 
-![image.png](assets/Python数据容器/Python数据容器-61.png)
+![image.png](assets/05_Python数据容器/file-20260529202348355.png)
 
   
 
 老师有一份名单，记录了学生的姓名和考试总成绩。
 
-![image.png](assets/Python数据容器/Python数据容器-62.png)
+![image.png](assets/05_Python数据容器/file-20260529202348354.png)
 
 现在需要将其通过Python录入至程序中，并可以通过学生姓名检索学生的成绩。
 
 使用字典最为合适：
 
-![image.png](assets/Python数据容器/Python数据容器-63.png)
+![image.png](assets/05_Python数据容器/file-20260529202348352.png)
 
 可以通过Key（学生姓名），取到对应的Value（考试成绩）
 
@@ -1486,13 +1486,13 @@ Python中字典和生活中字典十分相像：
 
 字典的定义，同样使用{}，不过存储的元素是一个个的：键值对，如下语法：
 
-![image.png](assets/Python数据容器/Python数据容器-64.png)
+![image.png](assets/05_Python数据容器/file-20260529202348351.png)
 
 前文中提到的，记录学生成绩，可以使用如下定义：
 
 前文中记录学生成绩的需求，可以如下记录：
 
-![image.png](assets/Python数据容器/Python数据容器-65.png)
+![image.png](assets/05_Python数据容器/file-20260529202348350.png)
 
 •使用{}存储原始，每一个元素是一个键值对
 
@@ -1510,7 +1510,7 @@ Python中字典和生活中字典十分相像：
 
 但是字典可以通过Key值来取得对应的Value
 
-![image.png](assets/Python数据容器/Python数据容器-66.png)
+![image.png](assets/05_Python数据容器/file-20260529202348349.png)
 
 ```python
 """
@@ -1562,21 +1562,21 @@ print(d)
 
 需求如下：记录学生各科的考试信息
 
-![image.png](assets/Python数据容器/Python数据容器-67.png)
+![image.png](assets/05_Python数据容器/file-20260529202348347.png)
 
 代码：
 
-![image.png](assets/Python数据容器/Python数据容器-68.png)
+![image.png](assets/05_Python数据容器/file-20260529202348346.png)
 
 优化一下可读性，可以写成：
 
-![image.png](assets/Python数据容器/Python数据容器-69.png)
+![image.png](assets/05_Python数据容器/file-20260529202348345.png)
 
 ## 嵌套字典的内容获取
 
 嵌套字典的内容获取，如下所示：
 
-![image.png](assets/Python数据容器/Python数据容器-70.png)
+![image.png](assets/05_Python数据容器/file-20260529202348343.png)
 
 ```python
 """
@@ -1632,7 +1632,7 @@ print(d["王力鸿"][1])
 
 语法：字典[Key] = Value，结果：字典被修改，新增了元素
 
-![image.png](assets/Python数据容器/Python数据容器-71.png)
+![image.png](assets/05_Python数据容器/file-20260529202348341.png)
 
 ## ​更新元素
 
@@ -1640,33 +1640,33 @@ print(d["王力鸿"][1])
 
 注意：字典Key不可以重复，所以对已存在的Key执行上述操作，就是更新Value值
 
-![image.png](assets/Python数据容器/Python数据容器-72.png)
+![image.png](assets/05_Python数据容器/file-20260529202348340.png)
 
 ## ​删除元素
 
 语法：字典.pop(Key)，结果：获得指定Key的Value，同时字典被修改，指定Key的数据被删除
 
-![image.png](assets/Python数据容器/Python数据容器-73.png)
+![image.png](assets/05_Python数据容器/file-20260529202348339.png)
 
 ## ​清空字典
 
 语法：字典.clear()，结果：字典被修改，元素被清空
 
-![image.png](assets/Python数据容器/Python数据容器-74.png)
+![image.png](assets/05_Python数据容器/file-20260529202348338.png)
 
 ## ​获取全部的key
 
 语法：字典.keys()，结果：得到字典中的全部Key
 
-![image.png](assets/Python数据容器/Python数据容器-75.png)
+![image.png](assets/05_Python数据容器/file-20260529202348337.png)
 
 ## ​遍历字典
 
 语法：for key in 字典.keys()
 
-![image.png](assets/Python数据容器/Python数据容器-76.png)
+![image.png](assets/05_Python数据容器/file-20260529202348336.png)
 
-![image.png](assets/Python数据容器/Python数据容器-77.png)
+![image.png](assets/05_Python数据容器/file-20260529202348335.png)
 
 **注意：字典不支持下标索引，所以同样不可以用while循环遍历**
 
@@ -1676,7 +1676,7 @@ print(d["王力鸿"][1])
 
 结果：得到一个整数，表示字典内元素（键值对）的数量
 
-![image.png](assets/Python数据容器/Python数据容器-78.png)
+![image.png](assets/05_Python数据容器/file-20260529202348334.png)
 
 ```python
 d = {
@@ -1768,11 +1768,11 @@ dict_keys(['周杰轮', '林军杰', '王力鸿'])
 
 并通过for循环，对所有级别为1级的员工，级别上升1级，薪水增加1000元
 
-![image.png](assets/Python数据容器/Python数据容器-79.png)
+![image.png](assets/05_Python数据容器/file-20260529202348332.png)
 
 运行后，输出如下信息：
 
-![image.png](assets/Python数据容器/Python数据容器-80.png)
+![image.png](assets/05_Python数据容器/file-20260529202348287.png)
 
 ```python
 d = {
@@ -1869,7 +1869,7 @@ print(f"更新后：\n{d}")
 
 除了遍历这个共性外，数据容器可以通用非常多的功能方法
 
-![image.png](assets/Python数据容器/Python数据容器-81.png)
+![image.png](assets/05_Python数据容器/file-20260529202348286.png)
 
 同学们可能会疑惑，字符串如何确定大小？
 
@@ -1879,7 +1879,7 @@ print(f"更新后：\n{d}")
 
 除了下标索引这个共性外，还可以通用类型转换
 
-![image.png](assets/Python数据容器/Python数据容器-82.png)
+![image.png](assets/05_Python数据容器/file-20260529202348285.png)
 
 ## 容器通用排序功能
 
@@ -2037,11 +2037,11 @@ cxypa, 排序后（reverse=True）: ['y', 'x', 'p', 'c', 'a']
 
 中文一般比较UTF-8或GBK码表，具体看文件编码格式
 
-![image.png](assets/Python数据容器/Python数据容器-83.png)
+![image.png](assets/05_Python数据容器/file-20260529202348283.png)
 
 字符串是按位比较，也就是一位位进行对比，只要有一位大，那么整体就大。
 
-![image.png](assets/Python数据容器/Python数据容器-84.png)
+![image.png](assets/05_Python数据容器/file-20260529202348282.png)
 
 ```python
 """

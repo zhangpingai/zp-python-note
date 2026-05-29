@@ -2,7 +2,7 @@
 
 **问:**如果一个函数如些两个return (如下所示)，程序如何执行？
 
-![image.png](assets/Python函数进阶/Python函数进阶-1.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335513.png)
 
 **答：**只执行了第一个return，原因是因为return可以退出当前函数，
 
@@ -12,7 +12,7 @@
 
 如果一个函数要有多个返回值，该如何书写代码？
 
-![image.png](assets/Python函数进阶/Python函数进阶-2.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335509.png)
 
 按照返回值的顺序，写对应顺序的多个变量接收即可
 
@@ -56,7 +56,7 @@ print(x, type(x))
 
 **位置参数：**调用函数时根据函数定义的参数位置来传递参数
 
-![image.png](assets/Python函数进阶/Python函数进阶-3.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335508.png)
 
 注意：
 
@@ -68,7 +68,7 @@ print(x, type(x))
 
 **作用:**可以让函数更加清晰、容易使用，同时也清除了参数的顺序需求
 
-![image.png](assets/Python函数进阶/Python函数进阶-4.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335506.png)
 
 注意：
 
@@ -115,7 +115,7 @@ print("你好", end="\t")
 
 **作用****:**当调用函数时没有传递参数, 就会使用默认是用缺省参数对应的值.
 
-![image.png](assets/Python函数进阶/Python函数进阶-5.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335505.png)
 
 注意：
 
@@ -182,7 +182,7 @@ print("拉拉")
 
   
 
-![image.png](assets/Python函数进阶/Python函数进阶-6.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335503.png)
 
 注意：
 
@@ -245,7 +245,7 @@ print("你好", "我好", "大家好", "他不好", end="\t")
 
 ## 不定长参数(字典接收)-**关键字传递**
 
-![image.png](assets/Python函数进阶/Python函数进阶-7.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335501.png)
 
 注意：
 
@@ -323,7 +323,7 @@ func("周杰轮", 11, "唱", "rap", "跳", "打篮球", addr="石岩", id=123, m
 
 如下代码：
 
-![image.png](assets/Python函数进阶/Python函数进阶-8.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335500.png)
 
 函数compute，作为参数，传入了test\_func函数中使用。
 
@@ -390,7 +390,7 @@ func(compute4)
 
 匿名函数定义语法：
 
-![image.png](assets/Python函数进阶/Python函数进阶-9.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335499.png)
 
 •lambda 是关键字，表示定义匿名函数
 
@@ -404,11 +404,11 @@ func(compute4)
 
 •通过def关键字，定义一个函数，并传入，如下图：
 
-![image.png](assets/Python函数进阶/Python函数进阶-10.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335512.png)
 
 •也可以通过lambda关键字，传入一个一次性使用的lambda匿名函数
 
-![image.png](assets/Python函数进阶/Python函数进阶-11.png)
+![image.png](assets/06_Python函数进阶/file-20260529202335511.png)
 
 使用def和使用lambda，定义的函数功能完全一致，只是lambda关键字定义的函数是匿名的，无法二次使用
 

@@ -29,7 +29,7 @@ pa cxypa pa cxypa
 
 编码技术即：翻译的规则，记录了如何将内容翻译成二进制，以及如何将二进制翻译回可识别内容。
 
-![image.png](assets/Python文件操作/Python文件操作-1.png)
+![image.png](assets/07_Python文件操作/file-20260529202330605.png)
 
 计算机中有许多可用编码：
 
@@ -47,7 +47,7 @@ pa cxypa pa cxypa
 
 编码有许多，所以要使用正确的编码，才能对文件进行正确的读写操作呢。
 
-![image.png](assets/Python文件操作/Python文件操作-2.png)
+![image.png](assets/07_Python文件操作/file-20260529202330606.png)
 
 如上，如果你给喜欢的女孩发送文件，使用编码A进行编码（内容转二进制）。
 
@@ -59,7 +59,7 @@ pa cxypa pa cxypa
 
 我们可以使用Windows系统自带的记事本，打开文件后，即可看出文件的编码是什么：
 
-![image.png](assets/Python文件操作/Python文件操作-3.png)
+![image.png](assets/07_Python文件操作/file-20260529202330607.png)
 
 UTF-8是目前全球通用的编码格式
 
@@ -73,17 +73,17 @@ UTF-8是目前全球通用的编码格式
 
 一篇文章、一段视频、一个可执行程序，都可以被保存为一个文件，并赋予一个文件名。操作系统以文件为单位管理磁盘中的数据。一般来说，文件可分为文本文件、视频文件、音频文件、图像文件、可执行文件等多种类别。
 
-![image.png](assets/Python文件操作/Python文件操作-4.png)
+![image.png](assets/07_Python文件操作/file-20260529202330609.png)
 
 ## 文件操作包含哪些内容呢？
 
 在日常生活中，文件操作主要包括打开、关闭、读、写等操作。
 
-![image.png](assets/Python文件操作/Python文件操作-5.png)
+![image.png](assets/07_Python文件操作/file-20260529202330610.png)
 
-![image.png](assets/Python文件操作/Python文件操作-6.png)
+![image.png](assets/07_Python文件操作/file-20260529202330610%201.png)
 
-![image.png](assets/Python文件操作/Python文件操作-7.png)
+![image.png](assets/07_Python文件操作/file-20260529202330611.png)
 
 ## 文件的操作步骤
 
@@ -453,7 +453,7 @@ print(end - s)
 
 test.txt
 
-![image.png](assets/Python文件操作/Python文件操作-8.png)
+![image.png](assets/07_Python文件操作/file-20260529202330656.png)
 
 # 文件a模式写入
 
