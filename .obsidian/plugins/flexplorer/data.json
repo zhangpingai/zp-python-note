@@ -18661,8 +18661,14 @@
     "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入2": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
+      "customOrder": [
+        "cover.png"
+      ],
       "sortOrder": "custom"
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入2/cover.png": {
+      "isPinned": false,
+      "isHidden": false
     }
   },
   "pinnedFiles": [],
