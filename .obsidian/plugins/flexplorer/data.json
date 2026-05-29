@@ -8710,7 +8710,17 @@
     "Python语法2025/python_code": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "02逻辑判断",
+        "03循环语句",
+        "04函数",
+        "09_Streamlit",
+        "10_langchain",
+        "day01-面向对象基础",
+        "day02-面向对象高级",
+        "day03_闭包和装饰器",
+        "day05_生成器_正则",
         "day04_网编和多线程",
         "08_异常、模块和包",
         "07文件操作",
@@ -8724,8 +8734,7 @@
         "pyproject.toml",
         "bbb.py",
         "aaa.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/aaa.py": {
       "isPinned": false,
@@ -8758,7 +8767,23 @@
     "Python语法2025/python_code/01基础语法": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "09_标识符的命名规则.py",
+        "10_数学（算术）运算符.py",
+        "11_字符串的三种写法.py",
+        "12_字符串的加号拼接.py",
+        "13_字符串加号拼接练习题.py",
+        "14_字符串%占位格式化.py",
+        "15_字符串%占位符练习题.py",
+        "16_字符串格式化精度控制.py",
+        "17_字符串格式化精度控制练习题.py",
+        "18_字符串格式化方式2.py",
+        "18_字符串格式化方式2练习题.py",
+        "19_表达式的格式化.py",
+        "20_股价计算小程序练习题.py",
+        "21_input输入.py",
+        "22_欢迎登陆小程序练习题.py",
         "08_数据类型转换.py",
         "07_type查看数据类型.py",
         "04_变量的重复应用.py",
@@ -8768,8 +8793,7 @@
         "02_注释.py",
         "01_字面量.py",
         "00_HelloWorld.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/01基础语法/00_HelloWorld.py": {
       "isPinned": false,
@@ -8810,6 +8834,7 @@
     "Python语法2025/python_code/05数据容器": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "22_字符串大小比较.py",
         "21_数据容器通用操作.py",
@@ -8832,8 +8857,7 @@
         "03_列表的常用操作（方法）.py",
         "02_列表的下标索引.py",
         "01_list基础.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/05数据容器/01_list基础.py": {
       "isPinned": false,
@@ -8922,6 +8946,7 @@
     "Python语法2025/python_code/06函数进阶": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "09_lambda练习题.py",
         "08_lambda表达式匿名函数.py",
@@ -8932,8 +8957,7 @@
         "04_不定长参数(元组接收).py",
         "03_缺省参数（默认值参数）.py",
         "01_函数返回多返回值.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/06函数进阶/01_函数返回多返回值.py": {
       "isPinned": false,
@@ -8974,6 +8998,7 @@
     "Python语法2025/python_code/07文件操作": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "hi.txt",
         "B.py",
@@ -8987,8 +9012,7 @@
         "03_with open语法.py",
         "02_for循环读取文件.py",
         "01_文件的只读操作.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/07文件操作/01_文件的只读操作.py": {
       "isPinned": false,
@@ -9041,6 +9065,7 @@
     "Python语法2025/python_code/08_异常、模块和包": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "自定义模块",
         "test_package.py",
@@ -9057,8 +9082,7 @@
         "03_捕获多个异常.py",
         "02_捕获特定异常.py",
         "01_异常的基础捕获.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08_异常、模块和包/01_异常的基础捕获.py": {
       "isPinned": false,
@@ -9111,13 +9135,13 @@
     "Python语法2025/python_code/08_异常、模块和包/my_package": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__pycache__",
         "__init__.py",
         "modul2.py",
         "modul1.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08_异常、模块和包/test_package.py": {
       "isPinned": false,
@@ -9126,13 +9150,13 @@
     "Python语法2025/python_code/08_异常、模块和包/自定义模块": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__pycache__",
         "B.py",
         "C.py",
         "A.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08_异常、模块和包/my_package/modul1.py": {
       "isPinned": false,
@@ -9149,12 +9173,12 @@
     "Python语法2025/python_code/08_异常、模块和包/my_package/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__init__.cpython-310.pyc",
         "modul2.cpython-310.pyc",
         "modul1.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08_异常、模块和包/自定义模块/A.py": {
       "isPinned": false,
@@ -9171,11 +9195,11 @@
     "Python语法2025/python_code/08_异常、模块和包/自定义模块/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "C.cpython-310.pyc",
         "B.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08_异常、模块和包/my_package/__pycache__/modul1.cpython-310.pyc": {
       "isPinned": false,
@@ -9200,6 +9224,7 @@
     "Python语法2025/python_code/day04_网编和多线程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "data",
         "16_example_线程入门案例_带参数的线程.py",
@@ -9218,8 +9243,7 @@
         "03_example_网编案例_一句话_客户端.py",
         "02_example_网编案例_一句话_服务器端.py",
         "01_创建socket对象.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/day04_网编和多线程/01_创建socket对象.py": {
       "isPinned": false,
@@ -9288,13 +9312,13 @@
     "Python语法2025/python_code/day04_网编和多线程/data": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "picture_3.jpg",
         "picture_28.jpg",
         "picture_2.jpg",
         "picture_1.jpg"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/day04_网编和多线程/data/picture_1.jpg": {
       "isPinned": false,
@@ -9309,6 +9333,754 @@
       "isHidden": false
     },
     "Python语法2025/python_code/day04_网编和多线程/data/picture_3.jpg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/09_标识符的命名规则.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/10_数学（算术）运算符.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/11_字符串的三种写法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/12_字符串的加号拼接.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/13_字符串加号拼接练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/14_字符串%占位格式化.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/15_字符串%占位符练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/16_字符串格式化精度控制.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/17_字符串格式化精度控制练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/18_字符串格式化方式2.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/18_字符串格式化方式2练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/19_表达式的格式化.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/20_股价计算小程序练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/21_input输入.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/01基础语法/22_欢迎登陆小程序练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_布尔类型和比较运算符.py",
+        "02_逻辑运算符.py",
+        "03_if条件判断.py",
+        "04_if条件判断练习题.py",
+        "05_if else条件判断.py",
+        "06_if else条件判断练习题.py",
+        "07_if elif else条件判断.py",
+        "08_猜数字练习题.py",
+        "09_if的嵌套判断.py",
+        "10_if嵌套判断2.py",
+        "11_if判断实战案例.py"
+      ]
+    },
+    "Python语法2025/python_code/02逻辑判断/01_布尔类型和比较运算符.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/02_逻辑运算符.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/03_if条件判断.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/04_if条件判断练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/05_if else条件判断.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/06_if else条件判断练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/07_if elif else条件判断.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/08_猜数字练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/09_if的嵌套判断.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/10_if嵌套判断2.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/02逻辑判断/11_if判断实战案例.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "02_while循环练习题累计1到100的和.py",
+        "01_while基础循环.py",
+        "03_while循环猜数字案例.py",
+        "04_循环嵌套.py",
+        "05_print输出不换行.py",
+        "06_while九九乘法表.py",
+        "07_for循环基础语法.py",
+        "08_for循环数字母a练习题.py",
+        "08_range语句.py",
+        "09_range语句练习题.py",
+        "10_变量的作用域.py",
+        "11_for循环嵌套.py",
+        "12_for循环九九乘法表.py",
+        "13_continue关键字.py",
+        "14_break关键字.py",
+        "15_循环发工资案例.py",
+        "ttt.py"
+      ]
+    },
+    "Python语法2025/python_code/03循环语句/02_while循环练习题累计1到100的和.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/01_while基础循环.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/03_while循环猜数字案例.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/04_循环嵌套.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/05_print输出不换行.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/06_while九九乘法表.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/07_for循环基础语法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/08_for循环数字母a练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/08_range语句.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/09_range语句练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/10_变量的作用域.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/11_for循环嵌套.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/12_for循环九九乘法表.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/13_continue关键字.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/14_break关键字.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/15_循环发工资案例.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/03循环语句/ttt.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_函数体验.py",
+        "02_函数的基础语法.py",
+        "03_函数基础语法练习题.py",
+        "04_带有传入参数的函数.py",
+        "05_函数传参练习题.py",
+        "06_带有返回值的函数.py",
+        "07_None类型.py",
+        "08_None用于if.py",
+        "09_None用于初始化变量.py",
+        "10_规范的函数注释写法.py",
+        "11_函数的嵌套调用和执行流程分析.py",
+        "12_局部变量.py",
+        "13_全局变量.py",
+        "14_全局变量global.py"
+      ]
+    },
+    "Python语法2025/python_code/04函数/01_函数体验.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/02_函数的基础语法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/03_函数基础语法练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/04_带有传入参数的函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/05_函数传参练习题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/06_带有返回值的函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/07_None类型.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/08_None用于if.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/09_None用于初始化变量.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/10_规范的函数注释写法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/11_函数的嵌套调用和执行流程分析.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/12_局部变量.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/13_全局变量.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/04函数/14_全局变量global.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_demo_用户信息注册表单.py",
+        "02_demo_聊天框绘制.py",
+        "03_Ollama_demo.py",
+        "04_streamlit_session_state.py",
+        "ollama_utils.py",
+        "streamlit_chat.py",
+        "__pycache__"
+      ]
+    },
+    "Python语法2025/python_code/09_Streamlit/01_demo_用户信息注册表单.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/02_demo_聊天框绘制.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/03_Ollama_demo.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/04_streamlit_session_state.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/ollama_utils.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/streamlit_chat.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/09_Streamlit/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "ollama_utils.cpython-310.pyc"
+      ]
+    },
+    "Python语法2025/python_code/09_Streamlit/__pycache__/ollama_utils.cpython-310.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/10_langchain": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "langchain_util.py",
+        "streamlit_langchain_chat.py",
+        "__pycache__"
+      ]
+    },
+    "Python语法2025/python_code/10_langchain/langchain_util.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/10_langchain/streamlit_langchain_chat.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/10_langchain/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "langchain_util.cpython-310.pyc"
+      ]
+    },
+    "Python语法2025/python_code/10_langchain/__pycache__/langchain_util.cpython-310.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_定义汽车类.py",
+        "02_self解释.py",
+        "03_类内访问函数.py",
+        "04_example_手机类.py",
+        "05_类外设置和获取对象的属性.py",
+        "06_类内获取对象的属性.py",
+        "07_魔法方法之init_无参版.py",
+        "08_魔法方法之init_有参版.py",
+        "09_魔法方法_str.py",
+        "10_魔法方法之_del.py",
+        "11_example_减肥案例.py",
+        "12_example_烤地瓜.py",
+        "13_创建类的格式.py",
+        "14_继承入门.py",
+        "15_单继承.py",
+        "16_多继承.py"
+      ]
+    },
+    "Python语法2025/python_code/day01-面向对象基础/01_定义汽车类.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/02_self解释.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/03_类内访问函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/04_example_手机类.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/05_类外设置和获取对象的属性.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/06_类内获取对象的属性.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/07_魔法方法之init_无参版.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/08_魔法方法之init_有参版.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/09_魔法方法_str.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/10_魔法方法之_del.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/11_example_减肥案例.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/12_example_烤地瓜.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/13_创建类的格式.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/14_继承入门.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/15_单继承.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day01-面向对象基础/16_多继承.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_子类重写父类功能.py",
+        "02_子类重写后_访问父类功能_方式1.py",
+        "03_子类重写后_访问父类功能_方式2.py",
+        "04_多层继承.py",
+        "05_演示封装之私有属性.py",
+        "06_多态入门.py",
+        "07_多态案例_战斗平台.py",
+        "08_抽象类解释.py",
+        "09_对象属性和类属性介绍.py",
+        "10_类方法和静态方法演示.py",
+        "11_扩展dict属性.py",
+        "学生管理系统_面向对象版"
+      ]
+    },
+    "Python语法2025/python_code/day02-面向对象高级/01_子类重写父类功能.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/02_子类重写后_访问父类功能_方式1.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/03_子类重写后_访问父类功能_方式2.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/04_多层继承.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/05_演示封装之私有属性.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/06_多态入门.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/07_多态案例_战斗平台.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/08_抽象类解释.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/09_对象属性和类属性介绍.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/10_类方法和静态方法演示.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/11_扩展dict属性.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "main.py",
+        "student.py",
+        "studentcms.py",
+        "stu_data.txt",
+        "__pycache__"
+      ]
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/main.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/student.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/studentcms.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/stu_data.txt": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/__pycache__": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "student.cpython-312.pyc",
+        "studentcms.cpython-312.pyc"
+      ]
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/__pycache__/student.cpython-312.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day02-面向对象高级/学生管理系统_面向对象版/__pycache__/studentcms.cpython-312.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_闭包的背景介绍.py",
+        "02_闭包入门.py",
+        "03_nonlocal[关键字介绍.py",
+        "04_装饰器入门.py",
+        "05_装饰器装饰_无参无返回的原函数.py",
+        "07_装饰器装饰_无参有返回的原函数.py",
+        "06_装饰器装饰_有参无返回的原函数.py",
+        "08_装饰器装饰_有参有返回的原函数.py",
+        "09_装饰器装饰_可变参数.py",
+        "10_多个装饰器装饰1个函数.py",
+        "11_1个装饰器装饰多个函数.py",
+        "12_1个装饰器装饰多个函数_优化版.py",
+        "13_深浅拷贝_面试题.py"
+      ]
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/01_闭包的背景介绍.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/02_闭包入门.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/03_nonlocal[关键字介绍.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/04_装饰器入门.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/05_装饰器装饰_无参无返回的原函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/07_装饰器装饰_无参有返回的原函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/06_装饰器装饰_有参无返回的原函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/08_装饰器装饰_有参有返回的原函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/09_装饰器装饰_可变参数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/10_多个装饰器装饰1个函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/11_1个装饰器装饰多个函数.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/12_1个装饰器装饰多个函数_优化版.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day03_闭包和装饰器/13_深浅拷贝_面试题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "01_多线程特点_随机性.py",
+        "02_多线程特点_守护线程.py",
+        "03_多线程特点_数据共享.py",
+        "04_多线程共享全局变量出现问题.py",
+        "05_迭代器.py",
+        "06_生成器_推导式写法.py",
+        "07_生成器_yield方式.py",
+        "08_example_生成器生成批次歌词.py",
+        "09_property_装饰器用法.py",
+        "10_property_类属性用法.py",
+        "10_正则表达式_校验单个字符.py",
+        "11_正则替换.py",
+        "12_正则表达式_校验多个字符.py",
+        "13_example_正则表达式_校验开头和结尾.py",
+        "14_example_正则表达式_校验分组.py",
+        "15_example_校验邮箱.py",
+        "16_example_提取QQ号.py",
+        "17_example_校验html标签.py",
+        "data"
+      ]
+    },
+    "Python语法2025/python_code/day05_生成器_正则/01_多线程特点_随机性.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/02_多线程特点_守护线程.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/03_多线程特点_数据共享.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/04_多线程共享全局变量出现问题.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/05_迭代器.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/06_生成器_推导式写法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/07_生成器_yield方式.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/08_example_生成器生成批次歌词.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/09_property_装饰器用法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/10_property_类属性用法.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/10_正则表达式_校验单个字符.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/11_正则替换.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/12_正则表达式_校验多个字符.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/13_example_正则表达式_校验开头和结尾.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/14_example_正则表达式_校验分组.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/15_example_校验邮箱.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/16_example_提取QQ号.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/17_example_校验html标签.py": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/day05_生成器_正则/data": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "jaychou_lyrics.txt"
+      ]
+    },
+    "Python语法2025/python_code/day05_生成器_正则/data/jaychou_lyrics.txt": {
       "isPinned": false,
       "isHidden": false
     }
