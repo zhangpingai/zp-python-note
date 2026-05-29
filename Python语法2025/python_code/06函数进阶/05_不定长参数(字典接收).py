@@ -16,5 +16,5 @@ def func2(name, age, *args, **kwargs):
     print(f"字典收集：{kwargs}")
 
 
-func2("周杰轮", 11, 1, 2, 3, 4, 5, 6, id=1, addr=2, gender=3)
+func2("张三丰", 11, 1, 2, 3, 4, 5, 6, id=1, addr=2, gender=3)
 

@@ -20,7 +20,7 @@ print(str_type)
 
 # type查看变量的类型
 print("------------------")
-name = "周杰轮"
+name = "张三丰"
 age = 11
 height = 172.55
 print(type(name))

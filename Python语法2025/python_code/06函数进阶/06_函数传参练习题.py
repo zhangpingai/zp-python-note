@@ -14,4 +14,4 @@ def func(name, age, *args, **kwargs):
     print()
 
 
-func("周杰轮", 11, "唱", "rap", "跳", "打篮球", addr="石岩", id=123, money=20000)
+func("张三丰", 11, "唱", "rap", "跳", "打篮球", addr="石岩", id=123, money=20000)

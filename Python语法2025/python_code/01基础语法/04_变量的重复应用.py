@@ -1,19 +1,19 @@
 
 
 
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
-print("蔡依临")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
+print("赵柳柳")
 
 
-name = "刘德滑"
+name = "田七"
 print(name)
 print(name)
 print(name)

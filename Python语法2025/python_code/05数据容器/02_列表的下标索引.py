@@ -2,7 +2,7 @@
 语法：
 列表[下标索引值]
 """
-name_list = ["周杰轮", "林军杰", "王力鸿"]
+name_list = ["张三丰", "李思思", "王力鸿"]
 print(name_list[0])     # 取出第一个元素，下标是0
 print(name_list[1])
 print(name_list[2])

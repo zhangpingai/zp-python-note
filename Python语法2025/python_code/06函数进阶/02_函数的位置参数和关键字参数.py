@@ -18,7 +18,7 @@ user_info(age=22, name="小新", gender="男")
 # 混用
 user_info("小强", gender="男", age=11)
 # 如果混用，位置参数必须在关键字参数的左侧
-# user_info(gender="男", 11, name="周杰轮") 错误写法
+# user_info(gender="男", 11, name="张三丰") 错误写法
 user_info("小强", 11, gender="女")
 # 位置参数要注意，一一对应
 user_info(11, "小强", gender="女")
