@@ -1,16 +1,16 @@
 循环普遍存在于日常生活中，同样，在程序中，循环功能也是至关重要的基础功能。
 
-![image.png](assets/Python循环语句/Python循环语句-1.png)
+![image.png](assets/03_Python循环语句/file-20260529202704073.png)
 
 循环在程序中同判断一样，也是广泛存在的，是非常多功能实现的基础：
 
-![image.png](assets/Python循环语句/Python循环语句-2.png)
+![image.png](assets/03_Python循环语句/file-20260529202704047.png)
 
 # while基础循环
 
   
 
-![image.png](assets/Python循环语句/Python循环语句-3.png)
+![image.png](assets/03_Python循环语句/file-20260529202704037.png)
 
 小美心软，只要表白100次，就会成功
 
@@ -117,7 +117,7 @@ import random
 
 random\_num = random.randint(1, 100)
 
-![image.png](assets/Python循环语句/Python循环语句-4.png)
+![image.png](assets/03_Python循环语句/file-20260529202704034.png)
 
 ```python
 """
@@ -151,7 +151,7 @@ while flag:     # 基于控制因子的条件判断
 
 # 循环嵌套
 
-![image.png](assets/Python循环语句/Python循环语句-5.png)
+![image.png](assets/03_Python循环语句/file-20260529202704031.png)
 
 ```python
 """
@@ -186,11 +186,11 @@ while循环的嵌套-注意点
 
 默认print语句输出内容会自动换行，如下图：
 
-![image.png](assets/Python循环语句/Python循环语句-6.png)
+![image.png](assets/03_Python循环语句/file-20260529202704024.png)
 
 在即将完成的案例中，我们需要使用print语句，输出不换行的功能，非常简单，实现方式如下：
 
-![image.png](assets/Python循环语句/Python循环语句-7.png)
+![image.png](assets/03_Python循环语句/file-20260529202704021.png)
 
 如图，在print语句中，加上 end=’’ 即可输出不换行了
 
@@ -204,7 +204,7 @@ ps: end=’’ 是使用的方法传参功能，我们在后面会详细讲解�
 
 比如：
 
-![image.png](assets/Python循环语句/Python循环语句-8.png)
+![image.png](assets/03_Python循环语句/file-20260529202704017.png)
 
 ```python
 """
@@ -232,7 +232,7 @@ print("abcde\t你好")
 
 通过while循环，输出如下九九乘法表内容
 
-![image.png](assets/Python循环语句/Python循环语句-9.png)
+![image.png](assets/03_Python循环语句/file-20260529202704015.png)
 
 提示：
 
@@ -272,15 +272,15 @@ while row <= 9:         # 基于因子的条件
 
 for循环是一种”轮询”机制，是对一批内容进行”逐个处理”
 
-![image.png](assets/Python循环语句/Python循环语句-10.png)
+![image.png](assets/03_Python循环语句/file-20260529202704071.png)
 
-![image.png](assets/Python循环语句/Python循环语句-11.png)
+![image.png](assets/03_Python循环语句/file-20260529202704068.png)
 
 **for循环就是将”待办事项”逐个完成的循环机制**
 
 **​**  
 
-![image.png](assets/Python循环语句/Python循环语句-12.png)
+![image.png](assets/03_Python循环语句/file-20260529202704066.png)
 
 for 循环格式
 
@@ -502,7 +502,7 @@ for 临时变量 in 待处理数据集(可迭代对象):
 
 如果实在需要在循环外访问循环内的临时变量，可以在循环外预先定义
 
-![image.png](assets/Python循环语句/Python循环语句-13.png)
+![image.png](assets/03_Python循环语句/file-20260529202704063.png)
 
 如图，每一次循环的时候，都会将取出的值赋予i变量。
 
@@ -536,7 +536,7 @@ print(i)
 
 同while一样，for循环也支持嵌套使用
 
-![image.png](assets/Python循环语句/Python循环语句-14.png)
+![image.png](assets/03_Python循环语句/file-20260529202704061.png)
 
   
 
@@ -573,7 +573,7 @@ for i in range(1, 101):
 
 ## for循环的嵌套注意点
 
-![image.png](assets/Python循环语句/Python循环语句-15.png)
+![image.png](assets/03_Python循环语句/file-20260529202704058.png)
 
 **如图，和while循环一样，需要注意缩进**
 
@@ -585,13 +585,13 @@ for i in range(1, 101):
 
 这两类循环语句是可以相互嵌套的，如下，小美表白的案例可以改为：
 
-![image.png](assets/Python循环语句/Python循环语句-16.png)
+![image.png](assets/03_Python循环语句/file-20260529202704056.png)
 
 # for循环九九乘法表
 
 通过for循环，输出如下九九乘法表内容
 
-![image.png](assets/Python循环语句/Python循环语句-17.png)
+![image.png](assets/03_Python循环语句/file-20260529202704054.png)
 
 提示：
 
@@ -645,7 +645,7 @@ continue关键字用于：中断本次循环，直接进入下一次循环
 
 continue可以用于： for循环和while循环，效果一致
 
-![image.png](assets/Python循环语句/Python循环语句-18.png)
+![image.png](assets/03_Python循环语句/file-20260529202704051.png)
 
 左侧代码：
 
@@ -693,7 +693,7 @@ for i in range(1, 11):
 
 continue关键字只可以控制：它所在的循环临时中断
 
-![image.png](assets/Python循环语句/Python循环语句-19.png)
+![image.png](assets/03_Python循环语句/file-20260529202704049.png)
 
 **continue****只能控制左图编号****1****的****for****循环**
 
@@ -707,7 +707,7 @@ break关键字用于：直接结束循环
 
 break可以用于： for循环和while循环，效果一致
 
-![image.png](assets/Python循环语句/Python循环语句-20.png)
+![image.png](assets/03_Python循环语句/file-20260529202704044.png)
 
 左侧代码：
 
@@ -782,7 +782,7 @@ for j in range(1, 11):
 
 break关键字同样只可以控制：它所在的循环结束
 
-![image.png](assets/Python循环语句/Python循环语句-21.png)
+![image.png](assets/03_Python循环语句/file-20260529202704042.png)
 
 **break****只能控制左图编号****1****的循环**
 
@@ -798,7 +798,7 @@ break关键字同样只可以控制：它所在的循环结束
 
 •如果工资发完了，结束发工资。
 
-![image.png](assets/Python循环语句/Python循环语句-22.png)
+![image.png](assets/03_Python循环语句/file-20260529202704039.png)
 
 提示：
 

@@ -1303,9 +1303,9 @@
         "Python3.12官方文档.md",
         "地址.md",
         "01_Python开发基础概念和工具安装.md",
-        "02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
         "02_Python逻辑判断.md",
-        "Python循环语句.md",
+        "03_Python循环语句.md",
         "04_Python函数.md",
         "05_Python数据容器.md",
         "06_Python函数进阶.md",
@@ -6972,50 +6972,21 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入",
+        "03_Python循环语句",
         "04_Python函数",
         "02_Python逻辑判断",
         "08_Python异常模块与包",
         "05_Python数据容器",
         "06_Python函数进阶",
         "07_Python文件操作",
-        "02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入",
         "01_Python开发基础概念和工具安装",
-        "Python循环语句",
         "Python网络编程",
         "Python进程和线程",
         "Python闭包装饰器与深浅拷贝",
         "Python面向对象高级",
         "Python面向对象基础",
         "Python高级与正则表达式"
-      ]
-    },
-    "Python语法2025/assets/Python循环语句": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "Python循环语句-1.png",
-        "Python循环语句-10.png",
-        "Python循环语句-11.png",
-        "Python循环语句-12.png",
-        "Python循环语句-13.png",
-        "Python循环语句-14.png",
-        "Python循环语句-15.png",
-        "Python循环语句-16.png",
-        "Python循环语句-17.png",
-        "Python循环语句-18.png",
-        "Python循环语句-19.png",
-        "Python循环语句-2.png",
-        "Python循环语句-20.png",
-        "Python循环语句-21.png",
-        "Python循环语句-22.png",
-        "Python循环语句-3.png",
-        "Python循环语句-4.png",
-        "Python循环语句-5.png",
-        "Python循环语句-6.png",
-        "Python循环语句-7.png",
-        "Python循环语句-8.png",
-        "Python循环语句-9.png"
       ]
     },
     "Python语法2025/assets/Python网络编程": {
@@ -7122,94 +7093,6 @@
         "Python高级与正则表达式-2.png",
         "Python高级与正则表达式-1.png"
       ]
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-1.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-10.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-11.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-12.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-13.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-14.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-15.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-16.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-17.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-18.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-19.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-2.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-20.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-21.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-22.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-3.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-4.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-5.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-6.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-7.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-8.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/Python循环语句/Python循环语句-9.png": {
-      "isPinned": false,
-      "isHidden": false
     },
     "Python语法2025/assets/Python网络编程/Python网络编程-1.png": {
       "isPinned": false,
@@ -7460,10 +7343,6 @@
       "isHidden": false
     },
     "Python语法2025/assets/Python高级与正则表达式/Python高级与正则表达式-1.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/Python循环语句.md": {
       "isPinned": false,
       "isHidden": false
     },
@@ -11914,77 +11793,6 @@
       "isHidden": false
     },
     "Python语法2025/assets/01_Python开发基础概念和工具安装/file-20260529202256610.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "file-20260529202300033.png",
-        "file-20260529202300031.png",
-        "file-20260529202300029.png",
-        "file-20260529202300026.png",
-        "file-20260529202300024.png",
-        "file-20260529202300021.png",
-        "file-20260529202300019.png",
-        "file-20260529202300016.png",
-        "file-20260529202300014.png",
-        "file-20260529202300010.png",
-        "file-20260529202300008.png",
-        "file-20260529202300006.png"
-      ]
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300006.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300008.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300010.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300014.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300016.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300019.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300021.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300024.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300026.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300029.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300031.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202300033.png": {
       "isPinned": false,
       "isHidden": false
     },
@@ -18649,6 +18457,198 @@
       "isHidden": false
     },
     "讲义模板/day25-后端Web实战(AOP)/2-讲义/assets/image-20231209110344712.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/03_Python循环语句.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "file-20260529202704073.png",
+        "file-20260529202704071.png",
+        "file-20260529202704068.png",
+        "file-20260529202704066.png",
+        "file-20260529202704063.png",
+        "file-20260529202704061.png",
+        "file-20260529202704058.png",
+        "file-20260529202704056.png",
+        "file-20260529202704054.png",
+        "file-20260529202704051.png",
+        "file-20260529202704049.png",
+        "file-20260529202704047.png",
+        "file-20260529202704044.png",
+        "file-20260529202704042.png",
+        "file-20260529202704039.png",
+        "file-20260529202704037.png",
+        "file-20260529202704034.png",
+        "file-20260529202704031.png",
+        "file-20260529202704024.png",
+        "file-20260529202704021.png",
+        "file-20260529202704017.png",
+        "file-20260529202704015.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704015.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704017.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704021.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704024.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704031.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704034.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704037.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704039.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704042.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704044.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704047.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704049.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704051.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704054.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704056.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704058.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704061.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704063.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704066.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704068.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704071.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/03_Python循环语句/file-20260529202704073.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "file-20260529202718522.png",
+        "file-20260529202718520.png",
+        "file-20260529202718519.png",
+        "file-20260529202718517.png",
+        "file-20260529202718516.png",
+        "file-20260529202718514.png",
+        "file-20260529202718513.png",
+        "file-20260529202718511.png",
+        "file-20260529202718510.png",
+        "file-20260529202718508.png",
+        "file-20260529202718506.png",
+        "file-20260529202718502.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718502.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718506.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718508.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718510.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718511.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718513.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718514.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718516.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718517.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718519.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718520.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718522.png": {
       "isPinned": false,
       "isHidden": false
     }
