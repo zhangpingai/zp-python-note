@@ -1298,6 +1298,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入2.md",
         "python_code",
         "assets",
         "Python3.12官方文档.md",
@@ -18649,6 +18650,10 @@
       "isHidden": false
     },
     "Python语法2025/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260529202718522.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入2.md": {
       "isPinned": false,
       "isHidden": false
     }

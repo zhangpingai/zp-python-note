@@ -129,6 +129,12 @@ def find_task_id(data: dict) -> str | None:
         for key in ("task_id", "id", "taskId"):
             if isinstance(nested.get(key), str):
                 return nested[key]
+    if isinstance(nested, list):
+        for item in nested:
+            if isinstance(item, dict):
+                for key in ("task_id", "id", "taskId"):
+                    if isinstance(item.get(key), str):
+                        return item[key]
     return None
 
 
