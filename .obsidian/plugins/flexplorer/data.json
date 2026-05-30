@@ -6948,10 +6948,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/assets/Python进程和线程/Python进程和线程-10.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Python语法2025/地址.md": {
       "isPinned": false,
       "isHidden": false
@@ -10386,14 +10382,6 @@
       "isHidden": false
     },
     "讲义模板/day13-后端Web基础(Maven基础)/2-讲义/assets/lastUpdated-1582625518983.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/08_Python异常模块与包/file-20260529202446879.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/assets/02_Python逻辑判断/file-20260529202456419.png": {
       "isPinned": false,
       "isHidden": false
     },
@@ -16177,18 +16165,27 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/assets/03_Python循环语句/file-20260529202704039.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Python语法2025/etl_new": {
       "isPinned": false,
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "03_Python循环语句.md",
+        "04_Python函数.md",
+        "05_Python数据容器.md",
+        "06_Python函数进阶.md",
+        "07_Python文件操作.md",
+        "08_Python异常模块与包.md",
+        "12_Python面向对象高级.md",
+        "11_Python面向对象基础.md",
+        "13_Python闭包装饰器与深浅拷贝.md",
+        "14_Python_WebSocket.md",
+        "14_Python网络编程.md",
+        "14_Python进程和线程.md",
+        "15_Python高级与正则表达式.md",
+        "assets",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
         "01_Python开发基础概念和工具安装.md",
-        "assets",
         "02_Python逻辑判断.md"
       ]
     },
@@ -16535,6 +16532,7 @@
     "Python语法2025/old/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130559205.png",
         "file-20260530130559203.png",
@@ -16548,8 +16546,7 @@
         "file-20260530130559174.png",
         "file-20260530130559172.png",
         "file-20260530130559169.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260530130559169.png": {
       "isPinned": false,
@@ -16606,7 +16603,9 @@
     "Python语法2025/old/assets/03_Python循环语句": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530130605825.png",
         "file-20260530130605842.png",
         "file-20260530130605839.png",
         "file-20260530130605837.png",
@@ -16628,8 +16627,7 @@
         "file-20260530130605785.png",
         "file-20260530130605782.png",
         "file-20260530130605779.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/03_Python循环语句/file-20260530130605779.png": {
       "isPinned": false,
@@ -16722,6 +16720,7 @@
     "Python语法2025/old/assets/04_Python函数": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130618340.png",
         "file-20260530130618337.png",
@@ -16745,8 +16744,7 @@
         "file-20260530130618272.png",
         "file-20260530130618269.png",
         "file-20260530130618265.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/04_Python函数/file-20260530130618265.png": {
       "isPinned": false,
@@ -16843,6 +16841,7 @@
     "Python语法2025/old/assets/05_Python数据容器": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130637631.png",
         "file-20260530130637628.png",
@@ -16928,8 +16927,7 @@
         "file-20260530130637412.png",
         "file-20260530130637409.png",
         "file-20260530130637405.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/05_Python数据容器/file-20260530130637405.png": {
       "isPinned": false,
@@ -17274,6 +17272,7 @@
     "Python语法2025/old/assets/06_Python函数进阶": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130644057.png",
         "file-20260530130644054.png",
@@ -17286,8 +17285,7 @@
         "file-20260530130644029.png",
         "file-20260530130644024.png",
         "file-20260530130644020.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/06_Python函数进阶/file-20260530130644020.png": {
       "isPinned": false,
@@ -17340,6 +17338,7 @@
     "Python语法2025/old/assets/07_Python文件操作": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130647987.png",
         "file-20260530130647984.png",
@@ -17349,8 +17348,7 @@
         "file-20260530130647969.png",
         "file-20260530130647955.png",
         "file-20260530130647951.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/07_Python文件操作/file-20260530130647951.png": {
       "isPinned": false,
@@ -17391,7 +17389,9 @@
     "Python语法2025/old/assets/08_Python异常模块与包": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530130652116.png",
         "file-20260530130652122.png",
         "file-20260530130652119.png",
         "file-20260530130652113.png",
@@ -17419,8 +17419,7 @@
         "file-20260530130652047.png",
         "file-20260530130652045.png",
         "file-20260530130652041.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/08_Python异常模块与包/file-20260530130652041.png": {
       "isPinned": false,
@@ -17533,6 +17532,7 @@
     "Python语法2025/python_code/08异常、模块和包": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "自定义模块",
         "test_package.py",
@@ -17549,8 +17549,7 @@
         "03_捕获多个异常.py",
         "02_捕获特定异常.py",
         "01_异常的基础捕获.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08异常、模块和包/01_异常的基础捕获.py": {
       "isPinned": false,
@@ -17603,13 +17602,13 @@
     "Python语法2025/python_code/08异常、模块和包/my_package": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__pycache__",
         "modul2.py",
         "__init__.py",
         "modul1.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08异常、模块和包/test_package.py": {
       "isPinned": false,
@@ -17618,13 +17617,13 @@
     "Python语法2025/python_code/08异常、模块和包/自定义模块": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "C.py",
         "__pycache__",
         "B.py",
         "A.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08异常、模块和包/my_package/modul1.py": {
       "isPinned": false,
@@ -17641,12 +17640,12 @@
     "Python语法2025/python_code/08异常、模块和包/my_package/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__init__.cpython-310.pyc",
         "modul2.cpython-310.pyc",
         "modul1.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08异常、模块和包/自定义模块/A.py": {
       "isPinned": false,
@@ -17659,11 +17658,11 @@
     "Python语法2025/python_code/08异常、模块和包/自定义模块/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "C.cpython-310.pyc",
         "B.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/08异常、模块和包/自定义模块/C.py": {
       "isPinned": false,
@@ -17692,6 +17691,7 @@
     "Python语法2025/python_code/09Streamlit": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__pycache__",
         "streamlit_chat.py",
@@ -17700,8 +17700,7 @@
         "03_Ollama_demo.py",
         "02_demo_聊天框绘制.py",
         "01_demo_用户信息注册表单.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/09Streamlit/01_demo_用户信息注册表单.py": {
       "isPinned": false,
@@ -17730,10 +17729,10 @@
     "Python语法2025/python_code/09Streamlit/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "ollama_utils.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/09Streamlit/__pycache__/ollama_utils.cpython-310.pyc": {
       "isPinned": false,
@@ -17742,12 +17741,12 @@
     "Python语法2025/python_code/10langchain": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "streamlit_langchain_chat.py",
         "__pycache__",
         "langchain_util.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/10langchain/langchain_util.py": {
       "isPinned": false,
@@ -17756,10 +17755,10 @@
     "Python语法2025/python_code/10langchain/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "langchain_util.cpython-310.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/10langchain/streamlit_langchain_chat.py": {
       "isPinned": false,
@@ -17772,6 +17771,7 @@
     "Python语法2025/python_code/11面向对象基础": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "16_多继承.py",
         "15_单继承.py",
@@ -17789,8 +17789,7 @@
         "03_类内访问函数.py",
         "02_self解释.py",
         "01_定义汽车类.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/11面向对象基础/01_定义汽车类.py": {
       "isPinned": false,
@@ -17859,6 +17858,7 @@
     "Python语法2025/python_code/12面向对象高级": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "学生管理系统_面向对象版",
         "11_扩展dict属性.py",
@@ -17872,8 +17872,7 @@
         "03_子类重写后_访问父类功能_方式2.py",
         "02_子类重写后_访问父类功能_方式1.py",
         "01_子类重写父类功能.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/12面向对象高级/01_子类重写父类功能.py": {
       "isPinned": false,
@@ -17922,14 +17921,14 @@
     "Python语法2025/python_code/12面向对象高级/学生管理系统_面向对象版": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "__pycache__",
         "studentcms.py",
         "stu_data.txt",
         "student.py",
         "main.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/12面向对象高级/学生管理系统_面向对象版/main.py": {
       "isPinned": false,
@@ -17950,11 +17949,11 @@
     "Python语法2025/python_code/12面向对象高级/学生管理系统_面向对象版/__pycache__": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "studentcms.cpython-312.pyc",
         "student.cpython-312.pyc"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/12面向对象高级/学生管理系统_面向对象版/__pycache__/student.cpython-312.pyc": {
       "isPinned": false,
@@ -17967,6 +17966,7 @@
     "Python语法2025/python_code/13闭包和装饰器": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "13_深浅拷贝_面试题.py",
         "12_1个装饰器装饰多个函数_优化版.py",
@@ -17981,8 +17981,7 @@
         "03_nonlocal[关键字介绍.py",
         "02_闭包入门.py",
         "01_闭包的背景介绍.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/13闭包和装饰器/01_闭包的背景介绍.py": {
       "isPinned": false,
@@ -18039,6 +18038,7 @@
     "Python语法2025/python_code/14网编和多线程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "data",
         "16_example_线程入门案例_带参数的线程.py",
@@ -18057,8 +18057,7 @@
         "02_example_网编案例_一句话_服务器端.py",
         "03_example_网编案例_一句话_客户端.py",
         "01_创建socket对象.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/14网编和多线程/01_创建socket对象.py": {
       "isPinned": false,
@@ -18127,13 +18126,13 @@
     "Python语法2025/python_code/14网编和多线程/data": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "picture_3.jpg",
         "picture_28.jpg",
         "picture_2.jpg",
         "picture_1.jpg"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/14网编和多线程/data/picture_1.jpg": {
       "isPinned": false,
@@ -18154,6 +18153,7 @@
     "Python语法2025/python_code/15生成器_正则": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "data",
         "17_example_校验html标签.py",
@@ -18174,8 +18174,7 @@
         "03_多线程特点_数据共享.py",
         "02_多线程特点_守护线程.py",
         "01_多线程特点_随机性.py"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/15生成器_正则/01_多线程特点_随机性.py": {
       "isPinned": false,
@@ -18252,10 +18251,10 @@
     "Python语法2025/python_code/15生成器_正则/data": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "jaychou_lyrics.txt"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/python_code/15生成器_正则/data/jaychou_lyrics.txt": {
       "isPinned": false,
@@ -18268,6 +18267,7 @@
     "Python语法2025/old/assets/11_Python面向对象基础": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130843409.png",
         "file-20260530130843408.png",
@@ -18284,8 +18284,7 @@
         "file-20260530130843393.png",
         "file-20260530130843392.png",
         "file-20260530130843390.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/11_Python面向对象基础/file-20260530130843390.png": {
       "isPinned": false,
@@ -18347,10 +18346,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/old/assets/Python面向对象高级/file-20260530130849314.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Python语法2025/old/12_Python面向对象高级.md": {
       "isPinned": false,
       "isHidden": false
@@ -18358,15 +18353,16 @@
     "Python语法2025/old/assets/12_Python面向对象高级": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530130855311.png",
         "file-20260530130855317.png",
         "file-20260530130855316.png",
         "file-20260530130855315.png",
         "file-20260530130855314.png",
         "file-20260530130855312.png",
         "file-20260530130855309.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/12_Python面向对象高级/file-20260530130855309.png": {
       "isPinned": false,
@@ -18392,10 +18388,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/old/assets/Python闭包装饰器与深浅拷贝/file-20260530130905079.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Python语法2025/old/13_Python闭包装饰器与深浅拷贝.md": {
       "isPinned": false,
       "isHidden": false
@@ -18403,14 +18395,15 @@
     "Python语法2025/old/assets/13_Python闭包装饰器与深浅拷贝": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530130913704.png",
         "file-20260530130913709.png",
         "file-20260530130913708.png",
         "file-20260530130913706.png",
         "file-20260530130913705.png",
         "file-20260530130913702.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913702.png": {
       "isPinned": false,
@@ -18439,7 +18432,9 @@
     "Python语法2025/old/assets/14_Python进程和线程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530130934611.png",
         "file-20260530130934627.png",
         "file-20260530130934626.png",
         "file-20260530130934624.png",
@@ -18453,8 +18448,7 @@
         "file-20260530130934615.png",
         "file-20260530130934614.png",
         "file-20260530130934613.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/14_Python进程和线程/file-20260530130934613.png": {
       "isPinned": false,
@@ -18515,6 +18509,7 @@
     "Python语法2025/old/assets/14_Python网络编程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130948035.png",
         "file-20260530130948033.png",
@@ -18535,8 +18530,7 @@
         "file-20260530130948014.png",
         "file-20260530130948013.png",
         "file-20260530130948010.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/14_Python网络编程/file-20260530130948010.png": {
       "isPinned": false,
@@ -18618,10 +18612,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/old/assets/Python高级与正则表达式/file-20260530131001928.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Python语法2025/old/15_Python高级与正则表达式.md": {
       "isPinned": false,
       "isHidden": false
@@ -18629,10 +18619,11 @@
     "Python语法2025/old/assets/15_Python高级与正则表达式": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530131008039.png",
         "file-20260530131008037.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/15_Python高级与正则表达式/file-20260530131008037.png": {
       "isPinned": false,
@@ -18645,7 +18636,9 @@
     "Python语法2025/etl_new/assets/02_Python逻辑判断": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
+        "file-20260530140517010.png",
         "cover.png",
         "file-20260530140517018.png",
         "file-20260530140517016.png",
@@ -18656,8 +18649,7 @@
         "file-20260530140517007.png",
         "file-20260530140517005.png",
         "file-20260530140517003.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517003.png": {
       "isPinned": false,
@@ -18702,6 +18694,7 @@
     "Python语法2025/old/assets/02_Python逻辑判断": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "file-20260530130603000.png",
         "file-20260530130602997.png",
@@ -18712,8 +18705,7 @@
         "file-20260530130602978.png",
         "file-20260530130602975.png",
         "file-20260530130602971.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602971.png": {
       "isPinned": false,
@@ -18754,10 +18746,10 @@
     "Python语法2025/old/assets/Python逻辑判断": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "Python逻辑判断-3.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/old/assets/Python逻辑判断/Python逻辑判断-3.png": {
       "isPinned": false,
@@ -18774,10 +18766,10 @@
     "Python语法2025/etl_new/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/cover.png": {
       "isPinned": false,
@@ -18786,10 +18778,10 @@
     "Python语法2025/etl_new/assets/01_Python开发基础概念和工具安装": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/01_Python开发基础概念和工具安装/cover.png": {
       "isPinned": false,
@@ -18802,10 +18794,10 @@
     "Python语法2025/etl_new/assets/03_Python循环语句": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/03_Python循环语句/cover.png": {
       "isPinned": false,
@@ -18814,10 +18806,10 @@
     "Python语法2025/etl_new/assets/04_Python函数": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/04_Python函数/cover.png": {
       "isPinned": false,
@@ -18826,10 +18818,10 @@
     "Python语法2025/etl_new/assets/05_Python数据容器": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/05_Python数据容器/cover.png": {
       "isPinned": false,
@@ -18838,10 +18830,10 @@
     "Python语法2025/etl_new/assets/06_Python函数进阶": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/06_Python函数进阶/cover.png": {
       "isPinned": false,
@@ -18850,10 +18842,10 @@
     "Python语法2025/etl_new/assets/07_Python文件操作": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/07_Python文件操作/cover.png": {
       "isPinned": false,
@@ -18862,10 +18854,10 @@
     "Python语法2025/etl_new/assets/08_Python异常模块与包": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/08_Python异常模块与包/cover.png": {
       "isPinned": false,
@@ -18874,10 +18866,10 @@
     "Python语法2025/etl_new/assets/11_Python面向对象基础": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/11_Python面向对象基础/cover.png": {
       "isPinned": false,
@@ -18886,10 +18878,10 @@
     "Python语法2025/etl_new/assets/12_Python面向对象高级": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/12_Python面向对象高级/cover.png": {
       "isPinned": false,
@@ -18898,10 +18890,10 @@
     "Python语法2025/etl_new/assets/13_Python闭包装饰器与深浅拷贝": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/13_Python闭包装饰器与深浅拷贝/cover.png": {
       "isPinned": false,
@@ -18910,11 +18902,11 @@
     "Python语法2025/etl_new/assets/14_Python_WebSocket": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.bak.png",
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/14_Python_WebSocket/cover.png": {
       "isPinned": false,
@@ -18927,10 +18919,10 @@
     "Python语法2025/etl_new/assets/14_Python网络编程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/14_Python网络编程/cover.png": {
       "isPinned": false,
@@ -18939,11 +18931,11 @@
     "Python语法2025/etl_new/assets/14_Python进程和线程": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.bak.png",
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/14_Python进程和线程/cover.png": {
       "isPinned": false,
@@ -18956,17 +18948,97 @@
     "Python语法2025/etl_new/assets/15_Python高级与正则表达式": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "cover.bak.png",
         "cover.png"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "Python语法2025/etl_new/assets/15_Python高级与正则表达式/cover.png": {
       "isPinned": false,
       "isHidden": false
     },
     "Python语法2025/etl_new/assets/15_Python高级与正则表达式/cover.bak.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/03_Python循环语句.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/04_Python函数.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/05_Python数据容器.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/06_Python函数进阶.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/07_Python文件操作.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/08_Python异常模块与包.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/12_Python面向对象高级.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/11_Python面向对象基础.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/13_Python闭包装饰器与深浅拷贝.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python_WebSocket.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python网络编程.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python进程和线程.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/15_Python高级与正则表达式.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517010.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/03_Python循环语句/file-20260530130605825.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/08_Python异常模块与包/file-20260530130652116.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/12_Python面向对象高级/file-20260530130855311.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913704.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/14_Python进程和线程/file-20260530130934611.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/15_Python高级与正则表达式/file-20260530131008039.png": {
       "isPinned": false,
       "isHidden": false
     }
