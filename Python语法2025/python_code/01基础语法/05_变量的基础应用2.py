@@ -14,4 +14,3 @@ print("我叫", name, ",兜里", money, "元")
 # 基本的数学运算，在Python中基本的数学加减乘除运算符号是： +  -  *  /
 print(50 + 5)
 print(money + 10)
-

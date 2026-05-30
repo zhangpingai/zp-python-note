@@ -17,4 +17,4 @@ info = "我是" + name + "，今年" + str(age) + "岁，身高" + str(height) +
 print(info)
 
 # 字符串乘以数字，可以做到将字符串复制多少份前后拼接到一起
-print("-"*50)
+print("-" * 50)
