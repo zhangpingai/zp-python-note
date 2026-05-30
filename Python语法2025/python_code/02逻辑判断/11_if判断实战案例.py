@@ -1,4 +1,5 @@
 import random
+
 random_num = random.randint(1, 10)
 
 # 第一次要求用户猜数字
@@ -38,6 +39,3 @@ elif int(input("第3次输入猜测数字：")) == random_num:
     print("你3就猜对了")
 else:
     print("全错")
-
-
-

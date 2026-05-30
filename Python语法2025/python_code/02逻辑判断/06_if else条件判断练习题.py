@@ -1,5 +1,3 @@
-
-
 height = float(input("请输入你的身高"))
 
 if height > 120:

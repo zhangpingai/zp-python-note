@@ -1,5 +1,3 @@
-
-
 money = int(input("请告诉我你还有多少钱："))
 
 if money >= 10000:

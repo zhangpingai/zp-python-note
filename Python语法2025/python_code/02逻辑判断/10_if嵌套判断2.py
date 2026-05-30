@@ -1,4 +1,3 @@
-
 age = int(input("请输入年龄"))
 year = int(input("入职时间？"))
 level = int(input("级别？"))

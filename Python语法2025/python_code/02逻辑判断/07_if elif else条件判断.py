@@ -36,5 +36,3 @@ elif int(input("今天几号：")) == 1:
     print("免费(1号)")
 else:
     print("都不满足，收费10元")
-
-
