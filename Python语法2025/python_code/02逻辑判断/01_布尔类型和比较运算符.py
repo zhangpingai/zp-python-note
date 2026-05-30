@@ -1,28 +1,27 @@
-
 # bool类型本身，2个字面量
-v1 = True       # 真
-v2 = False      # 假
+v1 = True  # 真
+v2 = False  # 假
 print(type(v1), type(v2))
 
 # 可以通过比较运算得到布尔结果
 # == 相等判断
-print("-"*10, "==判断")
-print("cxypa 等于 cxypp 吗？ %s" % ("cxypa" == "cxypp")) # False
-print("5 = 5.0 吗？ %s" % (5 == 5.0)) # True
-print('"5" = "5.0" 吗？ %s' % ("5" == "5.0")) # False
+print("-" * 10, "==判断")
+print("cxypa 等于 cxypp 吗？ %s" % ("cxypa" == "cxypp"))  # False
+print("5 = 5.0 吗？ %s" % (5 == 5.0))  # True
+print('"5" = "5.0" 吗？ %s' % ("5" == "5.0"))  # False
 
 # != 不相等判断
-print("-"*10, "!=判断")
-print("cxypa 不等于 cxypp 吗？ %s" % ("cxypa" != "cxypp")) # True
-print("5 != 5.0 吗？ %s" % (5 != 5.0)) # False
-print('"5" != "5.0" 吗？ %s' % ("5" != "5.0")) # True
+print("-" * 10, "!=判断")
+print("cxypa 不等于 cxypp 吗？ %s" % ("cxypa" != "cxypp"))  # True
+print("5 != 5.0 吗？ %s" % (5 != 5.0))  # False
+print('"5" != "5.0" 吗？ %s' % ("5" != "5.0"))  # True
 
 # > <  >=  <= 判断
-print("-"*10, "> <  >=  <= 判断")
-print("5 > 5 ? = %s" % (5 > 5)) # False
-print("5 >= 5 ? = %s" % (5 >= 5)) # True
-print("4 < 5 ? = %s" % (4 < 5)) # True
-print("4 <= 5 ? = %s" % (4 <= 5)) # True
+print("-" * 10, "> <  >=  <= 判断")
+print("5 > 5 ? = %s" % (5 > 5))  # False
+print("5 >= 5 ? = %s" % (5 >= 5))  # True
+print("4 < 5 ? = %s" % (4 < 5))  # True
+print("4 <= 5 ? = %s" % (4 <= 5))  # True
 
 # 字符串比较
 """
@@ -41,7 +40,7 @@ print("4 <= 5 ? = %s" % (4 <= 5)) # True
 非中文字符的详细比较关系，需要参考ASCII码表
 中文字符详细比较关系，需要参考UTF8编码表
 """
-print("-"*10, "字符串比较")
+print("-" * 10, "字符串比较")
 print('"12" > "5" ? = %s' % ("12" > "5"))
 
 print("你 > 我 = ? %s" % ("你" > "我"))

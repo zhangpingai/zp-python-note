@@ -16186,6 +16186,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
+        "01_Python开发基础概念和工具安装.md",
         "assets",
         "02_Python逻辑判断.md"
       ]
@@ -18742,6 +18744,14 @@
       "sortOrder": "custom"
     },
     "Python语法2025/old/assets/Python逻辑判断/Python逻辑判断-3.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/01_Python开发基础概念和工具安装.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md": {
       "isPinned": false,
       "isHidden": false
     }
