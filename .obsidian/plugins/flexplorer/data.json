@@ -16601,6 +16601,7 @@
       "isPinned": false,
       "isHidden": false,
       "customOrder": [
+        "cover.png",
         "file-20260530130603000.png",
         "file-20260530130602997.png",
         "file-20260530130602994.png",
@@ -18684,6 +18685,10 @@
       "isHidden": false
     },
     "Python语法2025/old/02_Python逻辑判断.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/cover.png": {
       "isPinned": false,
       "isHidden": false
     }
