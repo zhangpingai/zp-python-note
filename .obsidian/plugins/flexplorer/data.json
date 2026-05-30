@@ -16249,6 +16249,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "02_Python逻辑判断",
         "15_Python高级与正则表达式",
         "14_Python网络编程",
         "14_Python进程和线程",
@@ -18694,6 +18695,58 @@
       "isHidden": false
     },
     "Python语法2025/old/02_Python逻辑判断.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "file-20260530130603000.png",
+        "file-20260530130602997.png",
+        "file-20260530130602994.png",
+        "file-20260530130602988.png",
+        "file-20260530130602985.png",
+        "file-20260530130602982.png",
+        "file-20260530130602978.png",
+        "file-20260530130602975.png",
+        "file-20260530130602971.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602971.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602975.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602978.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602982.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602985.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602988.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602994.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602997.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130603000.png": {
       "isPinned": false,
       "isHidden": false
     }
