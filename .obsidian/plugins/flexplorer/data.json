@@ -16187,7 +16187,8 @@
       "sortOrder": "custom",
       "customOrder": [
         "assets",
-        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md"
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
+        "02_Python逻辑判断.md"
       ]
     },
     "Python语法2025/etl_new/assets": {
@@ -16195,6 +16196,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "02_Python逻辑判断",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入"
       ]
     },
@@ -16219,7 +16221,6 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "02_Python逻辑判断.md",
         "01_Python开发基础概念和工具安装.md",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
         "03_Python循环语句.md",
@@ -16259,7 +16260,6 @@
         "05_Python数据容器",
         "04_Python函数",
         "03_Python循环语句",
-        "02_Python逻辑判断",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入",
         "01_Python开发基础概念和工具安装"
       ]
@@ -16594,54 +16594,6 @@
       "isHidden": false
     },
     "Python语法2025/old/assets/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入/file-20260530130559205.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断": {
-      "isPinned": false,
-      "isHidden": false,
-      "customOrder": [
-        "cover.png",
-        "file-20260530130603000.png",
-        "file-20260530130602997.png",
-        "file-20260530130602994.png",
-        "file-20260530130602985.png",
-        "file-20260530130602982.png",
-        "file-20260530130602978.png",
-        "file-20260530130602975.png",
-        "file-20260530130602971.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602971.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602975.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602978.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602982.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602985.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602994.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130602997.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Python语法2025/old/assets/02_Python逻辑判断/file-20260530130603000.png": {
       "isPinned": false,
       "isHidden": false
     },
@@ -18684,11 +18636,59 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/old/02_Python逻辑判断.md": {
+    "Python语法2025/etl_new/02_Python逻辑判断.md": {
       "isPinned": false,
       "isHidden": false
     },
-    "Python语法2025/old/assets/02_Python逻辑判断/cover.png": {
+    "Python语法2025/etl_new/assets/02_Python逻辑判断": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "file-20260530140517018.png",
+        "file-20260530140517016.png",
+        "file-20260530140517015.png",
+        "file-20260530140517013.png",
+        "file-20260530140517011.png",
+        "file-20260530140517008.png",
+        "file-20260530140517007.png",
+        "file-20260530140517005.png",
+        "file-20260530140517003.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517003.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517005.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517007.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517008.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517011.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517013.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517015.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517016.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/02_Python逻辑判断/file-20260530140517018.png": {
       "isPinned": false,
       "isHidden": false
     }

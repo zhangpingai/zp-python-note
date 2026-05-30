@@ -1,4 +1,4 @@
-![cover](assets/02_Python逻辑判断/cover.png)
+![file-20260530140517003](assets/02_Python逻辑判断/file-20260530140517003.png)
 
 # 02_Python逻辑判断
 
