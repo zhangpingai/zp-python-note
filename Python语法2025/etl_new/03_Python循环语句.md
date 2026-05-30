@@ -1,4 +1,4 @@
-﻿![cover](assets/03_Python循环语句/cover.png)
+![cover](assets/03_Python循环语句/cover.png)
 
 # 03_Python循环语句
 
@@ -43,6 +43,13 @@ print("循环结束")
 答：控制变量、循环条件、更新动作。
 
 练习题：打印“我会坚持练习Python”5次。
+参考答案：
+```python
+count = 0
+while count < 5:
+    print("我会坚持练习Python")
+    count += 1
+```
 
 ### 风险提醒
 忘记更新循环变量是死循环第一来源。
@@ -109,6 +116,15 @@ print(total)
 答：布尔结果。
 
 练习题：用while统计1~200的和。
+参考答案：
+```python
+num = 1
+total = 0
+while num <= 200:
+    total += num
+    num += 1
+print(total)  # 20100
+```
 
 ### 风险提醒
 `while True` 仅用于确实需要无限循环的场景。
@@ -171,6 +187,12 @@ for i in range(2, 11, 2):
 答：for，更简洁更不易错。
 
 练习题：打印1~30之间的偶数。
+参考答案：
+```python
+for i in range(1, 31):
+    if i % 2 == 0:
+        print(i, end=" ")
+```
 
 ### 风险提醒
 混淆range边界会导致循环次数错误。
@@ -231,6 +253,15 @@ B 2
 答：continue跳本轮，break停整层。
 
 练习题：打印1~20，跳过3的倍数，遇到17结束。
+参考答案：
+```python
+for i in range(1, 21):
+    if i % 3 == 0:
+        continue
+    if i == 17:
+        break
+    print(i, end=" ")
+```
 
 ### 风险提醒
 break/continue过多会让逻辑难读，应适度使用。
@@ -287,6 +318,30 @@ for eid in range(1, 21):
 答：这是全局终止条件，满足即结束。
 
 练习题：把“固定1000”改为“按绩效分档发放500/1000/1500”。
+参考答案（答案要点）：
+```python
+import random
+money = 10000
+for eid in range(1, 21):
+    if money <= 0:
+        print("余额不足，结束发放")
+        break
+    score = random.randint(1, 10)
+    if score < 5:
+        print(f"员工{eid}绩效{score}，不发")
+        continue
+    if score <= 7:
+        pay = 500
+    elif score <= 9:
+        pay = 1000
+    else:
+        pay = 1500
+    if money < pay:
+        print("余额不足本次发放，结束")
+        break
+    money -= pay
+    print(f"员工{eid}绩效{score}，发放{pay}，剩余{money}")
+```
 
 ### 风险提醒
 余额更新写错会导致业务结果失真。

@@ -178,6 +178,7 @@ python .codex/skills/zp-it-lecture-writer/scripts/generate_cover.py \
 7. 练习题密度：
    - 每个 `###` 小节至少配 1 道练习题。
    - 练习优先可执行、可验证，不给纯记忆题。
+   - 每道练习题必须给出参考答案（或答案要点）。
 
 8. 代码引用策略：
    - 可以参考代码目录内容组织讲解深度与示例。
