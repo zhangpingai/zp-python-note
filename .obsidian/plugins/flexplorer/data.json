@@ -16197,6 +16197,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "05_Python数据容器",
+        "04_Python函数",
         "03_Python循环语句",
         "01_Python开发基础概念和工具安装",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入",
@@ -18796,6 +18798,30 @@
       "sortOrder": "custom"
     },
     "Python语法2025/etl_new/assets/03_Python循环语句/cover.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/04_Python函数": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "cover.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/etl_new/assets/04_Python函数/cover.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/05_Python数据容器": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "cover.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Python语法2025/etl_new/assets/05_Python数据容器/cover.png": {
       "isPinned": false,
       "isHidden": false
     }
