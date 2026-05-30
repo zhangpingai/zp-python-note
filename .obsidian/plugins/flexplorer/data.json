@@ -18957,11 +18957,16 @@
       "isPinned": false,
       "isHidden": false,
       "customOrder": [
+        "cover.bak.png",
         "cover.png"
       ],
       "sortOrder": "custom"
     },
     "Python语法2025/etl_new/assets/15_Python高级与正则表达式/cover.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/assets/15_Python高级与正则表达式/cover.bak.png": {
       "isPinned": false,
       "isHidden": false
     }
