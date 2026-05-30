@@ -16170,6 +16170,10 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "assets",
+        "01_Python开发基础概念和工具安装.md",
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
+        "02_Python逻辑判断.md",
         "03_Python循环语句.md",
         "04_Python函数.md",
         "05_Python数据容器.md",
@@ -16182,11 +16186,7 @@
         "14_Python_WebSocket.md",
         "14_Python网络编程.md",
         "14_Python进程和线程.md",
-        "15_Python高级与正则表达式.md",
-        "assets",
-        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
-        "01_Python开发基础概念和工具安装.md",
-        "02_Python逻辑判断.md"
+        "15_Python高级与正则表达式.md"
       ]
     },
     "Python语法2025/etl_new/assets": {
