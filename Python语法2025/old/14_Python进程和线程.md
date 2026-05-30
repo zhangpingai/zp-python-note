@@ -2,7 +2,7 @@
 
 网盘下载资料时为什么要多个文件同时下载？
 
-![image.png](assets/Python进程和线程/Python进程和线程-1.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934613.png)
 
 ## 多任务的优势
 
@@ -18,7 +18,7 @@
 
 例如：现在电脑安装的操作系统都是多任务操作系统，可以同时运行着多个软件。
 
-![image.png](assets/Python进程和线程/Python进程和线程-2.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934620.png)
 
 •多任务的两种表现形式
 
@@ -34,7 +34,7 @@
 
 对于单核cpu处理多任务,操作系统轮流让各个任务交替执行，假如:软件1执行0.01秒，切换到软件2，软件2执行0.01秒，再切换到软件3，执行0.01秒……这样反复执行下去 , 实际上每个软件都是交替执行的 . 但是，由于CPU的执行速度实在是太快了，表面上我们感觉就像这些软件都在同时执行一样 . 这里需要注意单核cpu是并发的执行多任务的。
 
-![image.png](assets/Python进程和线程/Python进程和线程-3.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934617.png)
 
 ## 并行
 
@@ -44,7 +44,7 @@
 
 对于多核cpu处理多任务，操作系统会给cpu的每个内核安排一个执行的任务，多个内核是真正的一起同时执行多个任务。这里需要注意多核cpu是并行的执行多任务，始终有多个任务一起执行。
 
-![image.png](assets/Python进程和线程/Python进程和线程-4.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934621.png)
 
 # 进程的介绍
 
@@ -54,7 +54,7 @@
 
 通俗理解：一个正在运行的程序就是一个进程. 例如:正在运行的qq, 微信等他们都是一个进程
 
-![image.png](assets/Python进程和线程/Python进程和线程-5.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934618.png)
 
 注意：一个程序运行后至少有一个进程
 
@@ -81,7 +81,7 @@ func_b()
 
 ```
 
-![image.png](assets/Python进程和线程/Python进程和线程-6.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934626.png)
 
 **思考****:**
 
@@ -93,11 +93,11 @@ func_b()
 
 ## 多进程基本工作方式
 
-![image.png](assets/Python进程和线程/Python进程和线程-7.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934622.png)
 
 程序运行会默认创建一个进程 ,这个默认创建的进程我们称之为**主进程**
 
-![image.png](assets/Python进程和线程/Python进程和线程-8.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934627.png)
 
 程序运行后又创建了一个进程这个新创建的进程我们称之为**子进程**
 
@@ -327,7 +327,7 @@ if __name__ == '__main__':
 
 例如，在不同进程中修改列表my\_list[]并新增元素，试着在各个进程中观察列表的最终结果。
 
-![image.png](assets/Python进程和线程/Python进程和线程-9.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934624.png)
 
 创建子进程会对主进程资源进行拷贝，也就是说子进程是主进程的一个副本，好比是一对双胞胎，之所以进程之间不共享全局变量，是因为操作的不是同一个进程里面的全局变量，只不过不同进程里面的全局变量名字相同而已。
 
@@ -521,7 +521,7 @@ if __name__ == '_main__':
 
 线程是cpu调度的基本单位，每个进程至少都有一个线程，而这个线程就是我们通常说的主线程。
 
-![image.png](assets/Python进程和线程/Python进程和线程-10.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934611.png)
 
 **思考****:**
 
@@ -533,11 +533,11 @@ if __name__ == '_main__':
 
 ## 线程的作用
 
-![image.png](assets/Python进程和线程/Python进程和线程-11.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934616.png)
 
 在进程中会默认有一个线程用来执行程序, 这个线程称之为**主线程**
 
-![image.png](assets/Python进程和线程/Python进程和线程-12.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934623.png)
 
 在进程创建一个新的线程这个线程称之为**子线程**
 
@@ -952,7 +952,7 @@ target_fun2函数结果: 1405106
 
 **互斥锁:** 对共享数据进行锁定，保证同一时刻只有一个线程去操作。
 
-![image.png](assets/Python进程和线程/Python进程和线程-13.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934614.png)
 
 互斥锁是**多个线程一起去抢**，抢到锁的线程先执行，没有抢到锁的线程进行等待，等锁使用完释放后，其它等待的线程再去抢这个锁。
 
@@ -1111,7 +1111,7 @@ if __name__ == '__main__':
 
 2\. 一个进程默认提供一条线程，进程可以创建多个线程
 
-![image.png](assets/Python进程和线程/Python进程和线程-14.png)
+![image.png](assets/14_Python进程和线程/file-20260530130934615.png)
 
 ## 区别对比
 

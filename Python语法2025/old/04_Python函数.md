@@ -2,7 +2,7 @@
 
 函数：是组织好的，可重复使用的，用来实现特定功能的代码段。
 
-![image.png](assets/04_Python函数/file-20260529202510868%201.png)
+![image.png](assets/04_Python函数/file-20260530130618269.png)
 
 **为什么随时都可以使用len()统计长度？**
 
@@ -60,7 +60,7 @@ cxypa的长度是：10
 
 ## 函数的定义
 
-![image.png](assets/04_Python函数/file-20260529202510861.png)
+![image.png](assets/04_Python函数/file-20260530130618305.png)
 
 ## 函数的调用：
 
@@ -128,7 +128,7 @@ say_hi()
 
 有如下代码，完成了2个数字相加的功能：
 
-![image.png](assets/04_Python函数/file-20260529202510857.png)
+![image.png](assets/04_Python函数/file-20260530130618321.png)
 
 函数的功能非常局限，只能计算1 + 2。
 
@@ -142,11 +142,11 @@ say_hi()
 
 基于函数的定义语法：
 
-![image.png](assets/04_Python函数/file-20260529202510856%201.png)
+![image.png](assets/04_Python函数/file-20260530130618331.png)
 
 可以有如下函数定义：
 
-![image.png](assets/04_Python函数/file-20260529202510856.png)
+![image.png](assets/04_Python函数/file-20260530130618325.png)
 
 实现了，每次计算的是x + y，而非固定的1 + 2
 
@@ -156,7 +156,7 @@ x + y的值，可以在调用函数的时候指定。
 
 语法解析：
 
-![image.png](assets/04_Python函数/file-20260529202510855.png)
+![image.png](assets/04_Python函数/file-20260530130618328.png)
 
 •函数定义中，提供的x和y，称之为：形式参数（形参），表示函数声明将要使用2个参数
 
@@ -228,9 +228,9 @@ check_temp(float(input("你的体温是：")))  # 表达式也可以作为实际
 
 ## 什么是返回值
 
-![image.png](assets/04_Python函数/file-20260529202510853.png)
+![image.png](assets/04_Python函数/file-20260530130618340.png)
 
-![image.png](assets/04_Python函数/file-20260529202510854.png)
+![image.png](assets/04_Python函数/file-20260530130618334.png)
 
 如图代码
 
@@ -246,7 +246,7 @@ check_temp(float(input("你的体温是：")))  # 表达式也可以作为实际
 
 语法格式如图：
 
-![image.png](assets/04_Python函数/file-20260529202510852.png)
+![image.png](assets/04_Python函数/file-20260530130618337.png)
 
 如图，变量就能接收到函数的返回值
 
@@ -283,11 +283,11 @@ None表示：空的、无实际意义的意思
 
 演示：
 
-![image.png](assets/04_Python函数/file-20260529202510868.png)
+![image.png](assets/04_Python函数/file-20260530130618265.png)
 
 None可以主动使用return返回，效果等同于不写return语句：
 
-![image.png](assets/04_Python函数/file-20260529202510867.png)
+![image.png](assets/04_Python函数/file-20260530130618276.png)
 
 ```python
 # def say_hi():
@@ -323,7 +323,7 @@ None作为一个特殊的字面量，用于表示：空、无意义，其有非�
 
 •**一般用于在函数中主动返回****None****，配合****if****判断做相关处理**
 
-![image.png](assets/04_Python函数/file-20260529202510866%201.png)
+![image.png](assets/04_Python函数/file-20260530130618284.png)
 
 •
 
@@ -331,7 +331,7 @@ None作为一个特殊的字面量，用于表示：空、无意义，其有非�
 
 •**定义变量，但暂时不需要变量有具体值，可以用****None****来代替**
 
-![image.png](assets/04_Python函数/file-20260529202510866.png)
+![image.png](assets/04_Python函数/file-20260530130618280.png)
 
 ```python
 def check_age(age):
@@ -371,7 +371,7 @@ print(f"最后一个同学的年龄是：{age}")
 
 语法如下：
 
-![image.png](assets/04_Python函数/file-20260529202510865.png)
+![image.png](assets/04_Python函数/file-20260530130618272.png)
 
 通过多行注释的形式，对函数进行说明解释
 
@@ -399,7 +399,7 @@ print(add(1, 2))
 
 在PyCharm编写代码时，可以通过鼠标悬停，查看调用函数的说明文档
 
-![image.png](assets/04_Python函数/file-20260529202510864.png)
+![image.png](assets/04_Python函数/file-20260530130618287.png)
 
 # 函数的嵌套调用和执行流程分析
 
@@ -407,15 +407,15 @@ print(add(1, 2))
 
 所谓函数嵌套调用指的是一个函数里面又调用了另外一个函数
 
-![image.png](assets/04_Python函数/file-20260529202510863%201.png)
+![image.png](assets/04_Python函数/file-20260530130618293.png)
 
 执行效果：
 
-![image.png](assets/04_Python函数/file-20260529202510862.png)
+![image.png](assets/04_Python函数/file-20260530130618302.png)
 
 ## 执行过程
 
-![image.png](assets/04_Python函数/file-20260529202510863.png)
+![image.png](assets/04_Python函数/file-20260530130618290.png)
 
 如果函数A中，调用了另外一个函数B，那么先把函数B中的任务都执行完毕之后才会回到上次 函数A执行的位置
 
@@ -453,7 +453,7 @@ func_c()
 
 所谓局部变量是定义在函数体内部的变量，即只在函数体内部生效
 
-![image.png](assets/04_Python函数/file-20260529202510861%201.png)
+![image.png](assets/04_Python函数/file-20260530130618314.png)
 
 变量a是定义在\`testA\`函数内部的变量，在函数外部访问则立即报错.
 
@@ -490,7 +490,7 @@ NameError: name 'num' is not defined. Did you mean: 'sum'?
 
 答：将这个数据存储在一个全局变量里面
 
-![image.png](assets/04_Python函数/file-20260529202510860.png)
+![image.png](assets/04_Python函数/file-20260530130618297.png)
 
 ```python
 """
@@ -521,13 +521,13 @@ b: 200
 
 思考：\`testB\`函数需要修改变量num的值为200，如何修改程序？
 
-![image.png](assets/04_Python函数/file-20260529202510859.png)
+![image.png](assets/04_Python函数/file-20260530130618308.png)
 
 \`testB\`函数内部的 num = 200 是定义了一个局部变量
 
 ☆ 使用 global关键字 可以在函数内部声明变量为全局变量, 如下所示
 
-![image.png](assets/04_Python函数/file-20260529202510858.png)
+![image.png](assets/04_Python函数/file-20260530130618318.png)
 
 ```python
 """

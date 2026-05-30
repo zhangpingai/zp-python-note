@@ -2,7 +2,7 @@
 
 将具有独立功能的多台计算机通过通信线路和通信设备连接起来，在网络管理软件及网络通信协议下，**实现资源共享和信息传递的虚拟平台**。
 
-![image.png](assets/Python网络编程/Python网络编程-1.png)
+![image.png](assets/14_Python网络编程/file-20260530130948010.png)
 
 能够**编写基于网络通信的软件或程序**，通常来说就是网络编程。
 
@@ -32,9 +32,9 @@ IP地址就是**标识网络中设备的一个地址**，好比现实生活中�
 
 通过**IP地址找到网络中唯一一台设备**，也就是说通过IP地址能够找到网络中某台设备，然后可以跟这个设备进行数据通信。
 
-![image.png](assets/Python网络编程/Python网络编程-2.png)
+![image.png](assets/14_Python网络编程/file-20260530130948024.png)
 
-![image.png](assets/Python网络编程/Python网络编程-3.png)
+![image.png](assets/14_Python网络编程/file-20260530130948023.png)
 
 ### IP地址分类
 
@@ -44,7 +44,7 @@ IPv4：是目前大家使用的IP地址；
 
 IPv6：作为了解，IPv6是未来使用的IP地址。
 
-![image.png](assets/Python网络编程/Python网络编程-4.png)
+![image.png](assets/14_Python网络编程/file-20260530130948025.png)
 
   
 
@@ -68,13 +68,13 @@ Windows 使用 **ipconfig** 这个命令
 
 在一台电脑上使用飞秋给另外一台电脑上的飞秋发送数据并且另外的这台电脑还运行着多个软件，它是如何区分这多个软件把数据给飞秋的呢?
 
-![image.png](assets/Python网络编程/Python网络编程-5.png)
+![image.png](assets/14_Python网络编程/file-20260530130948026.png)
 
 ### 什么是端口
 
 其实，**每运行一个程序都会有一个端口，想要给对应的程序发送数据，找到对应的端口即可**。
 
-![image.png](assets/Python网络编程/Python网络编程-6.png)
+![image.png](assets/14_Python网络编程/file-20260530130948033.png)
 
 **端口是传输数据的通道**，好比教室的门，**是数据传输必经之路**
 
@@ -84,13 +84,13 @@ Windows 使用 **ipconfig** 这个命令
 
 其实，**每一个端口都会有一个对应的端口号，想要找到端口通过端口号即可。**
 
-![image.png](assets/Python网络编程/Python网络编程-7.png)
+![image.png](assets/14_Python网络编程/file-20260530130948030.png)
 
 ### 端口和端口号的关系
 
 端口号可以标识电脑中唯一的一个端口。
 
-![image.png](assets/Python网络编程/Python网络编程-8.png)
+![image.png](assets/14_Python网络编程/file-20260530130948031.png)
 
 ### 端口号的分类
 
@@ -120,13 +120,13 @@ TCP的英文全拼(Transmission Control Protocol)简称传输控制协议，**�
 
 TCP通信模型相当于生活中的’打电话‘，在通信开始之前，一定要先建立好连接，才能发送数据，通信结束要关闭连接
 
-![image.png](assets/Python网络编程/Python网络编程-9.png)
+![image.png](assets/14_Python网络编程/file-20260530130948035.png)
 
 ### TCP协议创建连接：3次握手
 
 三次握手（Three-Way Handshake）就是指建立一个TCP连接时，需要客户端和服务端总共发送3个包以确认连接的建立。
 
-![image.png](assets/Python网络编程/Python网络编程-10.png)
+![image.png](assets/14_Python网络编程/file-20260530130948013.png)
 
 l第一次握手：客户端向服务端发送请求，**等待****服务端****确认**。
 
@@ -140,7 +140,7 @@ l第三次握手：**客户端收到确认后**，再次发送请求确认服务
 
 四次挥手说TCP断开链接的时候需要经过4次确认。TCP连接是双向，A连接B、B连接A都要断开
 
-![image.png](assets/Python网络编程/Python网络编程-11.png)
+![image.png](assets/14_Python网络编程/file-20260530130948014.png)
 
 l第一次挥手： 当主机A（可以是客户端也可以是服务端）完成数据传输后, 提出停止TCP 连接的请求
 
@@ -176,9 +176,9 @@ l第四次挥手： 主机A对主机B 的请求进行确认，双方向的关闭
 
 socket(简称 套接字) 是**进程之间通信一个工具**，好比现实生活中的**插座**，所有的家用电器要想工作都是基于插座进行，而**进程之间想要进行网络通信需要基于这个 socket**。
 
-![image.png](assets/Python网络编程/Python网络编程-12.png)
+![image.png](assets/14_Python网络编程/file-20260530130948016.png)
 
-![image.png](assets/Python网络编程/Python网络编程-13.png)
+![image.png](assets/14_Python网络编程/file-20260530130948017.png)
 
 ## socket使用场景
 
@@ -186,7 +186,7 @@ socket(简称 套接字) 是**进程之间通信一个工具**，好比现实生
 
 不夸张的说，**只要跟网络相关的应用程序或者软件都使用到了socket**。
 
-![image.png](assets/Python网络编程/Python网络编程-14.png)
+![image.png](assets/14_Python网络编程/file-20260530130948018.png)
 
 ## 使用socket
 
@@ -199,7 +199,7 @@ import socket
 
 要使用socket，则通常要使用到socket模块下的socket类创建socket对象：
 
-![image.png](assets/Python网络编程/Python网络编程-15.png)
+![image.png](assets/14_Python网络编程/file-20260530130948019.png)
 
 例如，来创建一个TCP协议下的socket对象。
 
@@ -252,7 +252,7 @@ TCP网络应用程序开发分为:
 
 服务端程序是指运行在**服务器设备上的程序**，专门为客户端提供数据服务。
 
-![image.png](assets/Python网络编程/Python网络编程-16.png)
+![image.png](assets/14_Python网络编程/file-20260530130948020.png)
 
 ## TCP服务器端
 
@@ -272,7 +272,7 @@ TCP服务器端操作**步骤流程****说明**：
 
 7\. 关闭套接字
 
-![image.png](assets/Python网络编程/Python网络编程-17.png)
+![image.png](assets/14_Python网络编程/file-20260530130948027.png)
 
 ## TCP客户端
 
@@ -288,13 +288,13 @@ TCP**客户端**操作步骤流程：
 
 5\. 关闭套接字
 
-![image.png](assets/Python网络编程/Python网络编程-18.png)
+![image.png](assets/14_Python网络编程/file-20260530130948028.png)
 
 ## 字符串str与二进制bytes类型转换
 
 在网络中，**数据是以\`二进制数据类型bytes\`的形式进行传递的**, 所以在我们向网络传输数据的时候需要把数据转化成\`二进制\`, 从网络中接受到的数据默认也是\`二进制\`类型的数据，想要正常使用这些数据也需要把这些数据从\`二进制\`类型数据转化为\`字符串str\`型。
 
-![image.png](assets/Python网络编程/Python网络编程-19.png)
+![image.png](assets/14_Python网络编程/file-20260530130948022.png)
 
 例如，把字符串\`Welcome To Socket\`转换为二进制数据（此过程：编码）
 

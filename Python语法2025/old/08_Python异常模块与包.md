@@ -4,7 +4,7 @@
 
 当检测到一个错误时，Python解释器就无法继续执行了，反而出现了一些错误的提示，这就是所谓的“异常”, 也就是我们常说的BUG
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446919.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652041.png)
 
 ## bug单词的诞生
 
@@ -12,9 +12,9 @@
 
 1945年9月9日，下午三点，马克二型计算机无法正常工作了，技术人员试了很多办法，最后定位到第70号继电器出错。负责人哈珀观察这个出错的继电器，发现一只飞蛾躺在中间，已经被继电器打死。她小心地用摄子将蛾子夹出来，用透明胶布帖到“事件记录本”中，并注明“第一个发现虫子的实例。”自此之后，引发软件失效的缺陷，便被称为Bug。
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446901.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652072.png)
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446888.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652097.png)
 
 ## 异常演示
 
@@ -26,7 +26,7 @@ f = open('linux.txt', 'r')
 
 执行结果：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446886.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652100.png)
 
 # 异常的基础捕获
 
@@ -121,7 +121,7 @@ except (NameError, ZeroDivisionError):
 
 执行结果：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446885.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652113.png)
 
 ## 捕获异常并输出描述信息
 
@@ -136,7 +136,7 @@ except (NameError, ZeroDivisionError) as e:
 
 执行结果：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446883.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652109.png)
 
 ## 捕获所有异常
 
@@ -151,7 +151,7 @@ except Exception as e:
 
 执行结果：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446882.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652119.png)
 
 ## 异常else
 
@@ -168,7 +168,7 @@ else:
 
 执行结果：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446881.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652122.png)
 
 ## 异常的finally
 
@@ -320,9 +320,9 @@ main函数会捕获这个异常, 这就是异常的传递性.
 
 当所有函数都没有捕获异常的时候, 程序就会报错
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446879.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652116.png)
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446917.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652045.png)
 
 ```python
 def f02():
@@ -383,7 +383,7 @@ Python 模块(Module)，是一个 Python 文件，以 .py结尾. 模块能定义
 
 模块在使用前需要先导入 导入的语法如下:
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446916.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652047.png)
 
 常用的组合形式如：
 
@@ -576,7 +576,7 @@ Python中已经帮我们实现了很多的模块. 不过有时候我们需要一
 
 **案例**：新建一个Python文件，命名为my\_module1.py，并定义test函数
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446914.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652050.png)
 
 **注意****:**
 
@@ -612,7 +612,7 @@ if __name__ == '__main__':
 
 ## 注意事项
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446913.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652053.png)
 
 > 注意事项：当导入多个模块的时候，且模块内有同名功能. 当调用这个同名功能的时候，调用到的是后面导入的模块的功能
 
@@ -620,7 +620,7 @@ if __name__ == '__main__':
 
 如果一个模块文件中有\`\_\_all\_\_\`变量，当使用\`from xxx import \*\`导入时，只能导入这个列表中的元素
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446912.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652058.png)
 
   
 
@@ -638,7 +638,7 @@ if __name__ == '__main__':
 
 从逻辑上看，包的本质依然是模块
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446910.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652064.png)
 
 **包的作用****:**
 
@@ -654,7 +654,7 @@ if __name__ == '__main__':
 
 ③ 模块内代码如下
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446908.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652056.png)
 
 **Pycharm中的基本步骤:**
 
@@ -674,7 +674,7 @@ import 包名.模块名
 包名.模块名.目标
 ```
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446906.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652067.png)
 
 方式二：
 
@@ -685,7 +685,7 @@ from 包名 import *
 模块名.目标
 ```
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446904.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652061.png)
 
 ## 安装第三方包
 
@@ -723,7 +723,7 @@ pip install 包名称
 
 即可通过网络快速安装第三方包
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446902.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652069.png)
 
 ## pip的网络优化
 
@@ -733,7 +733,7 @@ pip install 包名称
 
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 包名称
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446900.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652075.png)
 
 https://pypi.tuna.tsinghua.edu.cn/simple是清华大学提供的一个网站，可供pip程序下载第三方包
 
@@ -741,11 +741,11 @@ https://pypi.tuna.tsinghua.edu.cn/simple是清华大学提供的一个网站，�
 
 PyCharm也提供了安装第三方包的功能：
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446898.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652079.png)
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446897.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652089.png)
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446896.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652092.png)
 
 # 练习案例：自定义工具包
 
@@ -805,21 +805,21 @@ Python内置了许多的模块，下面简单介绍几个常用的：
 
 •**如时间戳90000,就表示时间是：1970-01-01 00:01:30**
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446895.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652086.png)
 
 ## random模块 - 随机数
 
 通过random模块可以获得随机的数字。
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446893.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652083.png)
 
 ## os模块 - 文件相关
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446892.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652095.png)
 
 ## sys模块 - Python解释器相关
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446891.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652102.png)
 
 ## 什么是时间戳？
 
@@ -827,4 +827,4 @@ Python内置了许多的模块，下面简单介绍几个常用的：
 
 ## 常用模块功能
 
-![image.png](assets/08_Python异常模块与包/file-20260529202446889.png)
+![image.png](assets/08_Python异常模块与包/file-20260530130652106.png)

@@ -783,7 +783,7 @@ Python解释器干的事情：
 
 ③ 将变量与对象，通过指针连接起来，从变量到对象的连接称之为引用(变量引用对象)
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-1.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913702.png)
 
 ## 浅拷贝概念与原始数据准备
 
@@ -795,15 +795,15 @@ Python解释器干的事情：
 
 原始数据：
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-2.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913704.png)
 
 ## 可变类型浅拷贝
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-3.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913706.png)
 
 ## 不可变类型浅拷贝
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-4.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913709.png)
 
 ## 浅拷贝总结
 
@@ -823,13 +823,13 @@ Python解释器干的事情：
 
 ## 可变类型深拷贝
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-5.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913708.png)
 
 ## 不可变类型深拷贝
 
 不可变类型深拷贝：不可变类型进行深拷贝不会给拷贝的对象开辟新的内存空间，而只是拷贝了这个对象的引用。
 
-![image.png](assets/Python闭包装饰器与深浅拷贝/Python闭包装饰器与深浅拷贝-6.png)
+![image.png](assets/13_Python闭包装饰器与深浅拷贝/file-20260530130913705.png)
 
   
 

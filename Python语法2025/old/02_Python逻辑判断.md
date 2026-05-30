@@ -1,12 +1,12 @@
 进行逻辑判断，是生活中常见的行为。同样，在程序中，进行逻辑判断也是最为基础的功能。
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456424.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602971.png)
 
 # **为什么学习判断语句**
 
 判断在程序中广泛应用，如果没有它，这些功能都难以实现。
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456421.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602978.png)
 
 # 布尔类型和比较运算符
 
@@ -67,7 +67,7 @@ print(type(v1), type(v2)) # <class 'bool'> <class 'bool'>
 
 如下代码：
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456420.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602985.png)
 
   
 
@@ -181,7 +181,7 @@ age 不是成年人? False
 
 # **if判断语句**
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456419.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602988.png)
 
   
 
@@ -236,7 +236,7 @@ print("欢迎来游玩")
 
 **Python通过缩进判断代码块的归属关系。**
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456418.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602982.png)
 
 # if条件判断练习题
 
@@ -274,7 +274,7 @@ if满足条件会执行相应的代码语句，如果不满足呢？
 
 **if else 语句可以实现**
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456416.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602997.png)
 
 **​**  
 
@@ -343,7 +343,7 @@ print("祝你游玩愉快")
 
 **if elif else 语句可以实现**
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456415.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130603000.png)
 
 **​**  
 
@@ -426,13 +426,13 @@ else:
 
 **对这种需求，嵌套判断语句可以实现**
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456414.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602994.png)
 
 许多逻辑的判断，是嵌套的，多层次的。
 
 对于这种需求，我们可以：自由组合 if elif else，完成特定需求的要求。
 
-![image.png](assets/02_Python逻辑判断/file-20260529202456423.png)
+![image.png](assets/02_Python逻辑判断/file-20260530130602975.png)
 
 如上图，第二个if，属于第一个if内，只有第一个if满足条件，才会执行第二个if。
 

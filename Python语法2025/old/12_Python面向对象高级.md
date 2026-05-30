@@ -78,7 +78,7 @@ print(t1)
 
 生活中的继承：一般指的是子女继承父辈的财产。
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-1.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855311.png)
 
 面向对象代码中的“继承”：指子类继承父类的属性和方法
 
@@ -633,7 +633,7 @@ if __name__ == '__main__':
 
 在软件编程中，将属性和方法书写到类的里面的操作即为封装，封装可以为属性和方法添加私有权限。
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-2.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855309.png)
 
 ## 私有属性和私有方法
 
@@ -772,7 +772,7 @@ Print(xiaohei.make())
 
 多态，指的是：多种状态。比如：同样一个函数在不同的场景下有不同的状态
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-3.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855316.png)
 
 同样的行为（函数），传入不同的对象，得到不同的状态
 
@@ -975,7 +975,7 @@ if __name__ == '__main__':
 
 细心的同学可能发现了，父类Animal的speak方法，是空实现
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-4.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855312.png)
 
 这种设计的含义是：
 
@@ -991,13 +991,13 @@ if __name__ == '__main__':
 
 ## 为什么要使用抽象类呢？
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-5.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855315.png)
 
 大白话解释：国家或者行业提出标准后，不同的厂家各自实现标准的要求。
 
 抽象类就好比定义一个标准，包含了一些抽象的方法，要求子类必须实现。
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-6.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855317.png)
 
 配合多态，完成
 
@@ -1005,7 +1005,7 @@ if __name__ == '__main__':
 
 •具体的子类实现（实现标准）
 
-![image.png](assets/Python面向对象高级/Python面向对象高级-7.png)
+![image.png](assets/12_Python面向对象高级/file-20260530130855314.png)
 
   
 

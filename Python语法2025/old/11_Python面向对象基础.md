@@ -4,9 +4,9 @@
 
 我们解决问题的时候，会把所需要的步骤都列出来，然后**按照步骤写代码**挨个实现，这种过程化的叙事思维，就是面向过程思想。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-1.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843390.png)
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-2.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843403.png)
 
 ## 面向对象
 
@@ -26,7 +26,7 @@
 
 •在现实生活中，所有事物全被视为对象。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-3.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843401.png)
 
 ## 面向对象的三大特性
 
@@ -44,7 +44,7 @@
 
 现实生活中，小明是一个公司职员，那么在他身边存在**封装**吗？
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-4.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843402.png)
 
 提示： 小明是一个独立的个体，有自己的属性和方法。
 
@@ -60,7 +60,7 @@
 
 比如，我们日常生活中的手机、电脑都可以封装为一个类。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-5.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843407.png)
 
 ## 继承
 
@@ -70,7 +70,7 @@
 
 **继承就是子类继承父类的属性和方法，使得子类对象(实例)具有父类的特征和行为**
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-6.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843406.png)
 
 只要是继承关系，那么都满足：is-a关系
 
@@ -80,15 +80,15 @@
 
 大白话：同样一个函数（消息）在不同场景下表现出不同形态（功能）
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-7.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843404.png)
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-8.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843408.png)
 
 # 面向对象中的重要概念
 
 Python是一门**面向对象**的语言(也是一门面向过程的语言)。要掌握面向对象的基本语法，则首先需要掌握两个重要的概念：类、对象。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-9.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843409.png)
 
 ## 重要概念
 
@@ -96,15 +96,15 @@ Python是一门**面向对象**的语言(也是一门面向过程的语言)。�
 
 对象： 现实事物的**具体**体现
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-10.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843392.png)
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-11.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843398.png)
 
 ## 类
 
 我们都知道汽车是由汽车图纸生产出来的，那么此处的**汽车图纸**就是一个模板（即类），在汽车图纸上，指定规则：生产出来的汽车必须具有**跑起来**的行为。这是**抽象**的概念模型。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-12.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843396.png)
 
 ## 类的基本语法格
 
@@ -129,7 +129,7 @@ class Car:
 
 object，现实**具体**业务逻辑的一个实体。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-13.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843393.png)
 
 ## 对象的基本语法格式
 
@@ -421,7 +421,7 @@ p2对象: <__main__.Phone object at 0x000001E563506550>
 
 属性表示的是**固有特征**，在Python中使用**变量**表示，例如人的姓名、年龄、身高、体重等，都是对象的属性。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-14.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843395.png)
 
 ## 类外面添加和获取对象属性
 
@@ -571,7 +571,7 @@ __魔法方法名__()
 
 在Python中，当**新创建一个对象时，则会自动触发\_\_init\_\_()魔法方法**。
 
-![image.png](assets/Python面向对象基础/Python面向对象基础-15.png)
+![image.png](assets/11_Python面向对象基础/file-20260530130843399.png)
 
 例如，给车这个对象**默认**设置color(颜色)和number(轮胎数)为黑色、3个轮胎。
 
