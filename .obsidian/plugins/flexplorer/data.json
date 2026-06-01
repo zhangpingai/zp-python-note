@@ -16170,6 +16170,22 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "15_Python高级与正则表达式.md",
+        "14_Python进程和线程.md",
+        "14_Python网络编程.md",
+        "14_Python_WebSocket.md",
+        "13_Python闭包装饰器与深浅拷贝.md",
+        "12_Python面向对象高级.md",
+        "11_Python面向对象基础.md",
+        "08_Python异常模块与包.md",
+        "07_Python文件操作.md",
+        "06_Python函数进阶.md",
+        "05_Python数据容器.md",
+        "04_Python函数.md",
+        "03_Python循环语句.md",
+        "02_Python逻辑判断.md",
+        "01_Python开发基础概念和工具安装.md",
+        "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
         "assets"
       ]
     },
@@ -18685,6 +18701,70 @@
       "isHidden": false
     },
     "Python语法2025/old/assets/15_Python高级与正则表达式/file-20260530131008039.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/01_Python开发基础概念和工具安装.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/02_Python逻辑判断.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/03_Python循环语句.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/04_Python函数.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/05_Python数据容器.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/06_Python函数进阶.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/07_Python文件操作.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/08_Python异常模块与包.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/11_Python面向对象基础.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/12_Python面向对象高级.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/13_Python闭包装饰器与深浅拷贝.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python_WebSocket.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python网络编程.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/14_Python进程和线程.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/etl_new/15_Python高级与正则表达式.md": {
       "isPinned": false,
       "isHidden": false
     }
