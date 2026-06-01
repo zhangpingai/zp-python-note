@@ -17,7 +17,6 @@ print(lst.index("666"))
 # 在里面给True  不在里面给False
 print("666" in lst)
 
-
 # 修改指定下标的元素值
 # 列表变量[下标] = 值
 lst = [1, 2, 3]
@@ -25,7 +24,6 @@ lst[0] = 5
 print(lst)
 lst[-2] = 10
 print(lst)
-
 
 # 在列表指定下标位置，插入新元素
 # 语法： 列表变量.insert(下标, 元素)
