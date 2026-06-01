@@ -16170,11 +16170,11 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "03_Python循环语句.md",
         "assets",
         "01_Python开发基础概念和工具安装.md",
         "01_Python开发基础字面量、注释、变量、数据类型、数据类型转换、标识符、运算符、字符串扩展、数据输入.md",
         "02_Python逻辑判断.md",
+        "03_Python循环语句.md",
         "04_Python函数.md",
         "05_Python数据容器.md",
         "06_Python函数进阶.md",

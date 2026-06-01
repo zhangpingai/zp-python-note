@@ -1,4 +1,4 @@
-﻿![cover](assets/03_Python循环语句/cover.png)
+![cover](assets/03_Python循环语句/cover.png)
 
 # 03_Python循环语句
 

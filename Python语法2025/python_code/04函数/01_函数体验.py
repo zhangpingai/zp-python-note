@@ -1,5 +1,3 @@
-
-
 # 1. 提前写好的  2. 重复利用   3. 特定需求（求长度）
 def my_len(data):
     length = 0
@@ -7,6 +5,7 @@ def my_len(data):
         length += 1
         length += 1
     return length
+
 
 name = 'cxypa'
 print(f"{name}的长度是：{my_len(name)}")

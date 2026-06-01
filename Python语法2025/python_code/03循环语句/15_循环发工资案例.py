@@ -1,6 +1,6 @@
 import random
 
-money = 10000       # 余额
+money = 10000  # 余额
 
 for eid in range(1, 21):
 
