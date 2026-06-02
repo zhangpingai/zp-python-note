@@ -8,6 +8,7 @@
     object <- Master, School <- Prentice <- TuSun
 """
 
+
 # 故事4: 很多顾客都希望能吃到徒弟做出的有自己独立品牌的煎饼果子，也有程序员平安配方技术的煎饼果子味道。
 # 1. 老师父类.
 class Master:
@@ -19,6 +20,7 @@ class Master:
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
 
+
 # 2. 程序员平安学校类
 class School:
     # 2.1 属性
@@ -28,6 +30,7 @@ class School:
     # 2.2 行为
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
+
 
 # 3. 徒弟类
 class Prentice(School, Master):
@@ -52,15 +55,17 @@ class Prentice(School, Master):
     #     super().__init__()
     #     super().make_cake()
 
+
 # 4.创建徒孙类.
 class TuSun(Prentice):
     pass
+
 
 # 5. 测试.
 if __name__ == '__main__':
     # 5.1 创建徒孙类对象.
     ts = TuSun()
     # 5.2 调用功能.
-    ts.make_cake()          # Prentice类的
-    ts.make_master_cake()   # Master类的
-    ts.make_school_cake()   # School类的
+    ts.make_cake()  # Prentice类的
+    ts.make_master_cake()  # Master类的
+    ts.make_school_cake()  # School类的
