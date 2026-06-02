@@ -1,4 +1,3 @@
-
 # 不定长参数一般形参名叫做：args
 # 我们写成xxx，是告诉大家名字是随意的，建议用args
 # 参数名为args一般就默认看做是：*args即不定长
@@ -6,6 +5,7 @@ def func(name, *xxx):
     """
     *是不定长参数的标记，表示收集全部参数到元组中
     """
+    print(f'xxx类型是{type(xxx)}') # xxx类型是<class 'tuple'>
     print(f"我们是：{name}，我们的成员有：")
     for i in xxx:
         print(i)
@@ -24,6 +24,8 @@ def func2(name, *xxx, age):
         print(i)
 
     print(type(xxx))
+
+
 # 错误写法
 # func2("程序员平安天团", "张三丰", "王力鸿", 11)   # 11会被收集到xxx内，而不是提供给age
 # 正确写法
@@ -31,7 +33,6 @@ func2("程序员平安天团", "张三丰", "王力鸿", age=11)
 """
 
 """
-
 
 func("程序员平安天团", "张三丰", "王力鸿", "田七", "张学油")
 # 要注意，位置
