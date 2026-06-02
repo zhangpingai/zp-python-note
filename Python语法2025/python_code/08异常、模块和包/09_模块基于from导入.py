@@ -35,9 +35,8 @@ from A import A1, A2
 # choices(['a', 'b'])
 
 # 不推荐这种写法，因为可读性太差
-from random import *            # 导入random内部的全部功能
+from random import *  # 导入random内部的全部功能
 from time import *
-randint(1, 10)      # 因为如果导入多个模块，分不清这些函数是从哪个模块来的
+
+randint(1, 10)  # 因为如果导入多个模块，分不清这些函数是从哪个模块来的
 choices(['a', 'b'])
-
-
