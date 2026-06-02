@@ -1,4 +1,3 @@
-
 """
 import 模块名
 模块名：文件名
@@ -15,9 +14,8 @@ import time as t
 import random
 
 random.randint(1, 10)
-t.time()        # t是别名，t.time等于time.time()
+t.time()  # t是别名，t.time等于time.time()
 
 print("heihei")
 t.sleep(5)
 print("haha")
-

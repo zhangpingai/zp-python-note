@@ -1,5 +1,3 @@
-
-
 def f02():
     print("02start")
     open("asd", "r")
@@ -14,6 +12,7 @@ def f01():
 
 def main():
     f01()
+
 
 main()
 # try:
