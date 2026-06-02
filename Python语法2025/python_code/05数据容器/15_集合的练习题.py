@@ -1,5 +1,5 @@
 #
-my_list = ['程序员平安', '传智播客', '程序员平安', '传智播客', 'cxypa', 'cxypp', 'cxypa', 'cxypp', 'best']
+my_list = ['程序员平安', '列表集合', '程序员平安', '列表集合', 'cxypa', 'cxypp', 'cxypa', 'cxypp', 'best']
 
 s = set()
 
