@@ -1,4 +1,3 @@
-
 """
 try:
     ...
@@ -9,8 +8,6 @@ except 异常类型 as 变量:
 """
 
 try:
-    open("asd", "r")        # FileNotFoundError
+    open("asd", "r")  # FileNotFoundError
 except ZeroDivisionError as e:  # 捕获的是 ZeroDivisionError  会捕获失败
     print("憨货，不能除以0", e)
-
-
