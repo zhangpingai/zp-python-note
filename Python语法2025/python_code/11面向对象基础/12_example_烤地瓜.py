@@ -13,6 +13,8 @@
         [7, 12)         熟了
         [12, ∞]         糊了
 """
+
+
 # 1. 定义地瓜类 -> SweetPotato
 class SweetPotato:
     # 2. 在魔法方法__init__()中, 初始化地瓜的属性.
@@ -46,6 +48,7 @@ class SweetPotato:
     # 5. 重写str()方法, 打印地瓜信息.
     def __str__(self):
         return f'烘烤时间: {self.cook_time}, 地瓜状态: {self.cook_state}, 调料: {self.condiments}'
+
 
 # 6.测试.
 if __name__ == '__main__':

@@ -11,6 +11,8 @@
                         该魔法方法默认打印的是对象的地址值, 无意义, 一般都会重写, 改为打印 对象的各个属性值.
         __del__()
 """
+
+
 # 1. 定义汽车类.
 class Car:
     # 2.有参的 __init__()函数, 参数值由: 外部对象自行赋值.
@@ -23,7 +25,6 @@ class Car:
         self.color = color
         self.number = number
 
-
     # 魔法方法str(), 默认打印地址值, 无意义, 一般会重写, 改为打印对象的各个属性值.
     def __str__(self):
         return f'颜色: {self.color}, 轮胎数: {self.number}'
@@ -32,7 +33,7 @@ class Car:
 
 # 3.创建该类的对象.
 c1 = Car('绿色', 4)
-print(c1)       # 输出语句打印对象, 默认调用了该对象 所在类的 str魔法方法.
+print(c1)  # 输出语句打印对象, 默认调用了该对象 所在类的 str魔法方法.
 print('-' * 23)
 
 c2 = Car('红色', 6)

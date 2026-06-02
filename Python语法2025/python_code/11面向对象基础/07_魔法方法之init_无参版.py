@@ -11,6 +11,7 @@
         __del__()
 """
 
+
 # 需求: 定义汽车类, 默认属性为: color='黑色', number=3
 # 1. 定义汽车类.
 class Car:
@@ -27,9 +28,8 @@ class Car:
         print(f'颜色: {self.color}, 轮胎数: {self.number}')
 
 
-
 # 2.创建汽车类对象.
-c1 = Car()      # 会自动调用 __init__()函数.
+c1 = Car()  # 会自动调用 __init__()函数.
 # 修改c1的属性值
 c1.color = '红色'
 c1.number = 6

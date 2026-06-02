@@ -10,6 +10,8 @@
     属性(名词):   当前体重, current_weight
     行为(动词)    跑步, 吃饭
 """
+
+
 # 1.定义学生类.
 class Student:
     # 2.在魔法方法init中, 完成: 对象的属性的初始化.
@@ -19,7 +21,7 @@ class Student:
     # 3.每当他跑步一次时，则会减少0.5kg
     def run(self):
         print('疯狂跑步...')
-        self.current_weight -= 0.5      # 体重减小.
+        self.current_weight -= 0.5  # 体重减小.
 
     # 4.大吃大喝.
     def eat(self):
@@ -30,6 +32,7 @@ class Student:
     def __str__(self):
         # return '当前体重: %s' % self.current_weight
         return f'当前体重: {self.current_weight} kg!'
+
 
 # 6. 测试.
 if __name__ == '__main__':
