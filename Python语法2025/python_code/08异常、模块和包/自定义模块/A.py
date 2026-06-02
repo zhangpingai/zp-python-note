@@ -19,6 +19,7 @@ print(B.name)
 print(B.age)
 print(B.height)
 """
+from C import wangwang
 import B
 
 # from B import say_hi, wangwang

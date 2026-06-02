@@ -2,6 +2,7 @@
 # 如果你给与一个列表，列表内写上函数名称
 # 可以控制这个文件（模块）被from ... import * 的时候，哪些函数可以被导入
 __all__ = ['wangwang', 'hi']
+print(f'C.py __name__ = {__name__}')
 
 def wangwang():
     print("C汪汪")
