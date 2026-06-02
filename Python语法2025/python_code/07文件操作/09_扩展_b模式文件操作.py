@@ -22,4 +22,3 @@ fw.write(content)
 # close
 fr.close()
 fw.close()
-

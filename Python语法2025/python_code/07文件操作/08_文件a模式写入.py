@@ -1,4 +1,3 @@
-
 """
 a模式 append追加
 - 文件不存在则新建
@@ -8,9 +7,8 @@ a模式 append追加
 # open
 f = open("D:/word2.txt", "a", encoding="utf-8")
 
-f.write("啦啦啦\n")      # write不会自带换行
+f.write("啦啦啦\n")  # write不会自带换行
 f.write("呱呱呱\n")
-
 
 # close
 f.close()

@@ -1,4 +1,3 @@
-
 num = 0
 # 1. 打开文件
 f = open("D:/word.txt", "r", encoding="utf-8")

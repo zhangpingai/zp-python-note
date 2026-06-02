@@ -1,4 +1,3 @@
-
 """
 with open() as f:
     ...
