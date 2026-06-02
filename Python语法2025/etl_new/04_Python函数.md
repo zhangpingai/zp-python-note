@@ -1,4 +1,4 @@
-﻿![cover](assets/04_Python函数/cover.png)
+![cover](assets/04_Python函数/cover.png)
 
 # 函数介绍
 
