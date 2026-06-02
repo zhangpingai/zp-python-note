@@ -18,6 +18,7 @@ height = 172.56
 # 如果本文件被import或from导入，则内置变量__name__会被赋值为：文件名称
 # __name__是Python内置变量，任何代码文件都有
 # 我们可以通过读取这个变量的值，从而确定这个代码文件是：被人导入了 还是被作为程序执行了
+# Python中的模块是单例，如果模块被多个文件导入，__name__是第一次导入这个模块的文件名称
 print(f'B.py __name__ = {__name__}')
 
 from C import wangwang
