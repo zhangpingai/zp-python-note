@@ -17642,6 +17642,9 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "modul2.cpython-312.pyc",
+        "modul1.cpython-312.pyc",
+        "__init__.cpython-312.pyc",
         "__init__.cpython-310.pyc",
         "modul2.cpython-310.pyc",
         "modul1.cpython-310.pyc"
@@ -18974,6 +18977,18 @@
       ]
     },
     "Python语法2025/etl_new/assets/15_Python高级与正则表达式/cover.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/08异常、模块和包/my_package/__pycache__/__init__.cpython-312.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/08异常、模块和包/my_package/__pycache__/modul1.cpython-312.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/08异常、模块和包/my_package/__pycache__/modul2.cpython-312.pyc": {
       "isPinned": false,
       "isHidden": false
     }
