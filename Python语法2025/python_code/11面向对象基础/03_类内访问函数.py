@@ -12,6 +12,7 @@ self关键字:
     2.在 类内 访问类中的行为，需要通过 self. 的方式访问。
 """
 
+
 # 需求: 定义汽车类, 类内有run()函数, 并在work()中调用run()函数, 创建该类对象, 调用上述的函数.
 
 # 1. 定义汽车类.
@@ -26,17 +27,16 @@ class Car:
     # 1.2 work()函数, 在其内部调用run()
     def work(self):
         print(f'我是work函数, 我的self值: {self}')
-        self.run()      # self = 本类当前对象的引用.
+        self.run()  # self = 本类当前对象的引用.
 
 
 # 2.在类外访问Car类的行为(函数)
 c1 = Car()
 print(f'c1对象: {c1}')
-c1.run()        # c1在跑
+c1.run()  # c1在跑
 print('-' * 34)
-c1.work()       # c1在work, c1在跑
-print('=' * 34) # 分割线
-
+c1.work()  # c1在work, c1在跑
+print('=' * 34)  # 分割线
 
 # 3.再次创建对象.
 c2 = Car()
