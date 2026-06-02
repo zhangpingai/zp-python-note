@@ -12,10 +12,10 @@ import 和 from 语句中
 # m2.haha()
 #
 #
-from my_package import modul1
-modul1.hi()
-from my_package.modul1 import hi
-hi()
+# from my_package import modul1
+# modul1.hi()
+# from my_package.modul1 import hi
+# hi()
 
 from my_package import *
 modul1.hi()
