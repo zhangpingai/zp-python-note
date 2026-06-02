@@ -1,4 +1,4 @@
-﻿![cover](assets/02_Python逻辑判断/cover.png)
+![cover](assets/02_Python逻辑判断/cover.png)
 
 进行逻辑判断，是生活中常见的行为。同样，在程序中，进行逻辑判断也是最为基础的功能。
 

@@ -1,4 +1,4 @@
-﻿![cover](assets/03_Python循环语句/cover.png)
+![cover](assets/03_Python循环语句/cover.png)
 
 循环普遍存在于日常生活中，同样，在程序中，循环功能也是至关重要的基础功能。
 

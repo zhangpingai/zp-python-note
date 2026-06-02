@@ -1,4 +1,4 @@
-﻿![cover](assets/01_Python开发基础概念和工具安装/cover.png)
+![cover](assets/01_Python开发基础概念和工具安装/cover.png)
 
 # 什么是编程语言
 
