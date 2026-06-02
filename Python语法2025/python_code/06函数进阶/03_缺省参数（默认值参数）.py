@@ -1,4 +1,3 @@
-
 """
 函数的形式参数可以有默认值：
 - 当调用函数不传递这个形式参数，则使用默认值
@@ -8,6 +7,7 @@
 
 def user_info(name, age, gender="男"):
     print(f"我是{name}, 今年{age}岁, 性别{gender}")
+
 
 """
 其它细节
@@ -36,9 +36,6 @@ user_info("小王", 21)
 # gender = "男"  -> 函数自带的
 # gender = "女"  -> 我们传递的
 user_info("小美", 22, "女")
-
-
-
 
 # 回忆, end是有默认值的，默认值是：end="\n"
 print("哈哈", end="\t")

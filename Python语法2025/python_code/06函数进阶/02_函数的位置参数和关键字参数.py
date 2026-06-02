@@ -1,5 +1,3 @@
-
-
 def user_info(name, age, gender):
     print(f"我是{name}, 今年{age}岁, 性别{gender}")
 
