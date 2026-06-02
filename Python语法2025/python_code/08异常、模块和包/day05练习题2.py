@@ -7,17 +7,14 @@ age_level_d = {
 }
 
 height_level_d = {
-    "l1": 0,        # l1 < 170
-    "l2": 0         # l2 >= 170
+    "l1": 0,  # l1 < 170
+    "l2": 0  # l2 >= 170
 }
 
 bmi_level_d = {
-    "l1": 0,        # l1 正常 （BMI<=28）
-    "l2": 0         # l2 超重（BMI>28）
+    "l1": 0,  # l1 正常 （BMI<=28）
+    "l2": 0  # l2 超重（BMI>28）
 }
-
-
-
 
 # open
 f = open("D:/data.txt", "r", encoding="utf-8")

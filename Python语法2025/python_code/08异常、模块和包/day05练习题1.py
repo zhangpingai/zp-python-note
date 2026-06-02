@@ -1,6 +1,5 @@
 import random
 
-
 names = [
     "赵伟", "钱芳", "孙强", "李敏", "周杰", "吴丽", "郑涛", "王芳", "冯伟", "陈静",
     "褚刚", "卫红", "蒋涛", "沈丽", "韩梅", "杨强", "朱敏", "秦芳", "尤伟", "许丽",
@@ -22,14 +21,14 @@ def generate_line(id):
     生成一条随机数据
     :return: 数据字符串
     """
-    random_name_index = random.randint(0, len(names)-1)
+    random_name_index = random.randint(0, len(names) - 1)
     # 随机抽取的姓名
     name = names[random_name_index]
     age = random.randint(10, 35)
     height = random.randint(160, 190)
     weight = random.randint(70, 120)
-    gender = genders[random.randint(0, len(genders)-1)]
-    city = cities[random.randint(0, len(cities)-1)]
+    gender = genders[random.randint(0, len(genders) - 1)]
+    city = cities[random.randint(0, len(cities) - 1)]
 
     line = f"{id},{name},{age},{height},{weight},{gender},{city}"
     return line
@@ -41,11 +40,10 @@ f = open("D:/data.txt", "w", encoding="utf-8")
 for id in range(1, 10001):
     line = generate_line(id)
     f.write(line)
-    f.write("\n")   # 记得写换行
+    f.write("\n")  # 记得写换行
 
 # close
 f.close()
-
 
 """
 写出的文件 可以称之为：csv（固定分隔符文件）
