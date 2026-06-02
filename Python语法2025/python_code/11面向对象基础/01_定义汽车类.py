@@ -31,7 +31,7 @@ class Car:  # 类名遵循 大驼峰命名法.
 
     # 行为
     def run(self):
-        print('汽车会跑!...')
+        print(f'{self}，汽车会跑!...')
 
 
 # 2.创建汽车类的对象.
