@@ -17663,6 +17663,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "B.cpython-312.pyc",
         "C.cpython-310.pyc",
         "B.cpython-310.pyc"
       ]
@@ -18989,6 +18990,10 @@
       "isHidden": false
     },
     "Python语法2025/python_code/08异常、模块和包/my_package/__pycache__/modul2.cpython-312.pyc": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Python语法2025/python_code/08异常、模块和包/自定义模块/__pycache__/B.cpython-312.pyc": {
       "isPinned": false,
       "isHidden": false
     }
