@@ -12,9 +12,11 @@
     案例:
         动物类案例.
 """
+
+
 # 1.定义动物类
-class Animal:           # 抽象类(也叫: 接口)
-    def speak(self):    # 抽象方法
+class Animal:  # 抽象类(也叫: 接口)
+    def speak(self):  # 抽象方法
         pass
 
 
@@ -23,19 +25,23 @@ class Dog(Animal):
     def speak(self):
         print('狗叫: 汪汪汪')
 
+
 # 3. 定义子类, 猫类.
 class Cat(Animal):
     def speak(self):
         print('猫叫: 喵喵喵')
+
 
 # 汽车类
 class Car:
     def speak(self):
         print('车叫: 滴滴滴')
 
+
 # 4. 定义函数, 接收不同的动物对象, 调用speak方法
-def make_noise(an:Animal):    #  an:Animal = Dog()
+def make_noise(an: Animal):  # an:Animal = Dog()
     an.speak()
+
 
 # 5. 测试.
 if __name__ == '__main__':
@@ -54,4 +60,3 @@ if __name__ == '__main__':
     # 5.3 测试汽车类
     c = Car()
     make_noise(c)
-

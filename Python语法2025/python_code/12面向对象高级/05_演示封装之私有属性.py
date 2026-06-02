@@ -29,7 +29,7 @@ class Prentice:
     def __init__(self):
         self.kongfu = '[程序员平安煎饼果子配方]'
         # 私房钱.
-        self._money = 20000
+        self.__money = 20000
 
     # 3.2 方法
     def make_cake(self):
@@ -37,10 +37,10 @@ class Prentice:
 
     # 3.3 针对私有的属性, 提供公共的访问方式.
     def get_money(self):  # 获取
-        return self._money
+        return self.__money
 
     def set_money(self, money):  # 设置
-        self._money = money
+        self.__money = money
 
 
 # 4. 定义徒孙类
@@ -55,7 +55,7 @@ if __name__ == '__main__':
     ts.make_cake()
     print('-' * 34)
 
-    print(ts._money)     # 报错, 父类私有成员, 子类无法访问.
+    # print(ts.__money)     # 报错, 父类私有成员, 子类无法访问.
 
     ts.set_money(100)
     print(ts.get_money())  # 通过父类提供的公共的访问方式, 访问父类的私有成员.
