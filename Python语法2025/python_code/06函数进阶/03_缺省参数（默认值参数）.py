@@ -25,7 +25,7 @@ def user_info3(name, age=10, gender):
 """
 
 # 这种调用在参数传递的时候等于是：
-# name = "小王"  ->我们传递的
+# name = "小王"  -> 我们传递的
 # age = 21      -> 我们传递的
 # gender = "男"  -> 函数自带的
 user_info("小王", 21)
