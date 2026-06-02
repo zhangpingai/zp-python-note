@@ -11,6 +11,8 @@
         类名.__mro__
 
 """
+
+
 # 1. 定义师傅类.
 class Master:
     # 1.1 定义师傅类属性.
@@ -20,6 +22,7 @@ class Master:
     # 1.2 定义师傅类方法.
     def make_cake(self):
         print(f'运用 {self.kongfu} 制作煎饼果子')
+
 
 # 2. 定义程序员平安学校类.
 class School:
@@ -33,16 +36,16 @@ class School:
 
 
 # 3.定义徒弟类 -> 有个对象叫 小明.
-class Prentice(School, Master): # 从左往右, 就近原则.
+class Prentice(School, Master):  # 从左往右, 就近原则.
     pass
 
 
 # 4.测试.
 xm = Prentice()
-print(xm.kongfu)        #
+print(xm.kongfu)  #
 xm.make_cake()
 print('-' * 23)
 
 # 5. 查看mro机制的结果.
-print(Prentice.mro())       # Prentice -> School -> Master -> object
-print(Prentice.__mro__)     # Prentice -> School -> Master -> object
+print(Prentice.mro())  # Prentice -> School -> Master -> object
+print(Prentice.__mro__)  # Prentice -> School -> Master -> object

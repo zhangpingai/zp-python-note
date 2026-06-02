@@ -10,6 +10,7 @@
     2. 定义子类, Prentice, 继承师傅类.
 """
 
+
 # 1. 定义师傅类.
 class Master:
     # 1.1 定义属性.
@@ -24,6 +25,7 @@ class Master:
 # 2.定义徒弟类, 继承自师傅类.
 class Prentice(Master):
     pass
+
 
 # 3.测试.
 p = Prentice()

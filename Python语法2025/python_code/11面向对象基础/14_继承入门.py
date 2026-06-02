@@ -26,6 +26,7 @@
         大白话解释: 自己能搞定的事儿, 就不要麻烦别人.
 """
 
+
 # 需求: 定义父类(男, 散步), 定义子类, 继承父类.
 # 1. 定义父类.
 class Father(object):
@@ -38,6 +39,7 @@ class Father(object):
     # def smoking(self):
     #     print('抽烟有害, 健康!')
 
+
 # 2. 定义子类.
 class Son(Father):
     pass
@@ -45,6 +47,6 @@ class Son(Father):
 
 # 3.测试子类的功能.
 s = Son()
-print(f'性别: {s.gender}')    # 子类从父类继承过来 属性.
-s.walk()                     # 子类从父类继承过来 行为.
+print(f'性别: {s.gender}')  # 子类从父类继承过来 属性.
+s.walk()  # 子类从父类继承过来 行为.
 # s.smoking()
