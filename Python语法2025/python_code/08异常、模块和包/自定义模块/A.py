@@ -19,6 +19,8 @@ print(B.name)
 print(B.age)
 print(B.height)
 """
+
+# Python中的模块是单例，如果模块被多个文件导入，__name__是第一次导入这个模块的文件名称
 from C import wangwang
 import B
 
