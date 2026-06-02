@@ -29,9 +29,5 @@ f = open("D:/hi.txt", "r", encoding="utf-8")
 print(f.readline().strip())
 print(f.readline().strip())
 
-
 # close
 f.close()
-
-
-

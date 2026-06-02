@@ -1,5 +1,3 @@
-
-
 def func(compute):
     # 被计算数据固定为1和2，要计算的逻辑取决于传入的compute函数
     result = compute(1, 2)
