@@ -6,6 +6,7 @@
     2. super().父类函数名()        只能访问最近的那个父类, 有就用, 没有就往后继续查找.
 """
 
+
 # 故事4: 很多顾客都希望能吃到徒弟做出的有自己独立品牌的煎饼果子，也有程序员平安配方技术的煎饼果子味道。
 # 1. 老师父类.
 class Master:
@@ -17,6 +18,7 @@ class Master:
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
 
+
 # 2. 程序员平安学校类
 class School:
     # 2.1 属性
@@ -26,6 +28,7 @@ class School:
     # 2.2 行为
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
+
 
 # 3. 徒弟类
 class Prentice(School, Master):
@@ -46,15 +49,16 @@ class Prentice(School, Master):
         School.__init__(self)
         School.make_cake(self)
 
+
 # 4. 测试.
 if __name__ == '__main__':
     # 4.1 创建徒弟类对象.
     p = Prentice()
     # 4.2 访问属性.
-    print(p.kongfu)         # 独创
+    print(p.kongfu)  # 独创
     # 4.3 调用函数.
-    p.make_cake()           # 独创
-    p.make_master_cake()    # 古法
-    p.make_school_cake()    # AI
+    p.make_cake()  # 独创
+    p.make_master_cake()  # 古法
+    p.make_school_cake()  # AI
     print('-' * 34)
-    p.make_cake()           # AI
+    p.make_cake()  # AI

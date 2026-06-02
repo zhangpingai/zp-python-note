@@ -8,6 +8,7 @@
         遵循 就近原则, 子类有就用, 没有就去就近的父类找, 依次查找其所有的父类, 有就用, 没有就报错.
 """
 
+
 # 故事3: 小明掌握了老师傅和程序员平安的技术后，自己潜心钻研出一套自己的独门配方的全新摊煎饼果子技术。
 # 1. 老师父类.
 class Master:
@@ -19,6 +20,7 @@ class Master:
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
 
+
 # 2. 程序员平安学校类
 class School:
     # 2.1 属性
@@ -28,6 +30,7 @@ class School:
     # 2.2 行为
     def make_cake(self):
         print(f'运用{self.kongfu}制作煎饼果子')
+
 
 # 3. 徒弟类
 class Prentice(School, Master):
