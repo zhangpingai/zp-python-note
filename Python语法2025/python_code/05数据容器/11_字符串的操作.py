@@ -1,4 +1,3 @@
-
 """
 字符串也是容器，同时有下标索引
 它和元组一样，是一个不可修改的容器
@@ -22,7 +21,6 @@ print(name.index("hei"))
 name = name.replace("i", "I")
 print(name)
 
-
 # split(分隔符) 按给定分隔符分隔字符串
 # 将字符串分隔为多个部分
 # 组装到一个列表中，对外返回
@@ -30,7 +28,6 @@ print(name)
 info = "周杰伦,王力鸿,李思思,田七,张学油"
 name_list = info.split(",")
 print(name_list)
-
 
 # strip() 去除首尾的空格和回车
 # 字符串不可改，strip()是返回一个修改好的新字符串需要变量接收
@@ -44,12 +41,10 @@ print(info.strip("[]"))
 
 # count统计自定子字符串的数量
 info = "abcabcabc"
-print(info.count("a"))      # 3
-print(info.count("ab"))     # 3
-print(info.count("abcd"))   # 0
+print(info.count("a"))  # 3
+print(info.count("ab"))  # 3
+print(info.count("abcd"))  # 0
 
 # 查看字符串长度 中文算1个
 info = "你好heima"
 print(len(info))
-
-
