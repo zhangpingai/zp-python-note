@@ -14,20 +14,24 @@
     敌机     EnemyFighter
 """
 
+
 # 1. 定义英雄机1代, 战斗力 60
 class HeroFighter:
     def power(self):
         return 60
+
 
 # 2. 定义英雄机2代, 战斗力 80
 class AdvHeroFighter(HeroFighter):
     def power(self):
         return 80
 
+
 # 3. 敌机1代
 class EnemyFighter:
     def power(self):
         return 70
+
 
 # 4. 构建对战平台, 公共的函数, 接收不同的参数, 有不同的效果 -> 多态.
 # def object_play(hero: HeroFighter, enemy:EnemyFighter):
